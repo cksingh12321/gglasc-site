@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contact — GGLASC</title>
+  <meta name="description" content="Contact the Global Girmitiya Lineage Archive & Searching Centre — request a manual look-up, propose a partnership, or simply tell us what you remember of your family's passage.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT@0,9..144,300..700,0..100;1,9..144,300..700,0..100&family=Inter:wght@400;500;600;700&family=Noto+Sans+Devanagari:wght@400;500;600;700&family=Noto+Serif+Devanagari:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css?v=1">
+  <link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
+  <style id="i18n-failsafe">
+    .lang-hi { display: none !important; }
+    html[lang="hi"] .lang-hi { display: inline !important; }
+    html[lang="hi"] .lang-en { display: none !important; }
+  </style>
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a href="index.html" class="brand">
+        <span class="brand-mark">GG</span>
+        <span class="brand-text">
+          <span class="brand-name"><span class="lang-en">Global Girmitiya Lineage Archive</span><span class="lang-hi">वैश्विक गिरमिटिया वंशावली अभिलेखागार</span></span>
+          <span class="brand-tag"><span class="lang-en">&amp; Searching Centre · A Division of Mahavir Singh Memorial Trust</span><span class="lang-hi">एवं खोज केंद्र · महावीर सिंह स्मारक न्यास का प्रभाग</span></span>
+        </span>
+      </a>
+      <nav class="nav" aria-label="Primary">
+        <a href="index.html"><span class="lang-en">Home</span><span class="lang-hi">मुख्य पृष्ठ</span></a>
+        <a href="about.html"><span class="lang-en">About</span><span class="lang-hi">परिचय</span></a>
+        <a href="search.html"><span class="lang-en">Search</span><span class="lang-hi">खोज</span></a>
+        <a href="awardees.html"><span class="lang-en">Awardees</span><span class="lang-hi">सम्मानित</span></a>
+        <a href="contribute.html"><span class="lang-en">Contribute</span><span class="lang-hi">योगदान</span></a>
+        <a href="contact.html" class="active"><span class="lang-en">Contact</span><span class="lang-hi">संपर्क</span></a>
+      </nav>
+      <div class="nav-actions">
+        <button class="lang-toggle" aria-label="Switch language / भाषा बदलें"><span class="lang-en-label">EN</span><span class="lang-sep"> / </span><span class="lang-hi-label">हिं</span></button>
+        <a href="search.html" class="btn btn-primary btn-sm"><span class="lang-en">Search archive</span><span class="lang-hi">अभिलेख खोजें</span></a>
+        <button class="menu-toggle" aria-label="Open menu" aria-expanded="false"><span></span><span></span><span></span></button>
+      </div>
+    </div>
+  </header>
+
+  <section class="page-hero">
+    <div class="container">
+      <div class="crumb reveal"><a href="index.html"><span class="lang-en">Home</span><span class="lang-hi">मुख्य पृष्ठ</span></a> · <span class="lang-en">Contact</span><span class="lang-hi">संपर्क</span></div>
+      <span class="eyebrow reveal"><span class="lang-en">Write to the Centre</span><span class="lang-hi">केंद्र को लिखें</span></span>
+      <h1 class="reveal mt-16"><span class="lang-en">Reach a <em>researcher</em> directly.</span><span class="lang-hi">सीधे एक <em>शोधकर्ता</em> तक पहुँचें।</span></h1>
+      <p class="lede reveal"><span class="lang-en">Request a manual look-up, ask about a record you've seen, propose a partnership, or simply tell us what your family remembers of its passage. We read everything that arrives.</span><span class="lang-hi">मैनुअल खोज का अनुरोध करें, किसी देखे अभिलेख के बारे में पूछें, साझेदारी का प्रस्ताव दें, या बस वह बताएँ जो आपका परिवार अपनी यात्रा के बारे में याद रखता है। जो भी आता है, हम उसे पढ़ते हैं।</span></p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="contact-grid">
+        <!-- ===== Form ===== -->
+        <form class="card form reveal" data-mailto="gglascmadhubani@gmail.com" data-mailto-subject="Message from gglasc.com">
+          <div class="form-fields form">
+            <div class="field-row">
+              <div class="field">
+                <label for="name"><span class="lang-en">Your name</span><span class="lang-hi">आपका नाम</span></label>
+                <input type="text" id="name" name="name" required>
+              </div>
+              <div class="field">
+                <label for="email"><span class="lang-en">Your email</span><span class="lang-hi">आपका ईमेल</span></label>
+                <input type="email" id="email" name="email" required>
+              </div>
+            </div>
+            <div class="field-row">
+              <div class="field">
+                <label for="country"><span class="lang-en">Country you write from</span><span class="lang-hi">आप किस देश से लिख रहे हैं</span></label>
+                <input type="text" id="country" name="country">
+              </div>
+              <div class="field">
+                <label for="topic"><span class="lang-en">What's this about?</span><span class="lang-hi">यह किस बारे में है?</span></label>
+                <select id="topic" name="topic">
+                  <option value="lookup">Manual lookup request</option>
+                  <option value="record">A record I have / have seen</option>
+                  <option value="partnership">Institutional partnership</option>
+                  <option value="press">Press / media</option>
+                  <option value="other">Other</option>
+                </select>
+              </div>
+            </div>
+            <div class="field">
+              <label for="message"><span class="lang-en">Your message</span><span class="lang-hi">आपका संदेश</span></label>
+              <textarea id="message" name="message" required data-i18n-attr="placeholder"
+                data-en-placeholder="Tell us about the ancestor, the family story, the record, or whatever you'd like us to know. The more detail, the better the search."
+                data-hi-placeholder="पूर्वज, पारिवारिक कथा, अभिलेख, या जो भी आप हमें बताना चाहें — बताएँ। जितना अधिक विवरण, उतनी बेहतर खोज।"></textarea>
+              <span class="hint"><span class="lang-en">English, हिंदी, Bhojpuri, Tamil — write in the language you're most comfortable in. We'll find a way to read it.</span><span class="lang-hi">अंग्रेज़ी, हिंदी, भोजपुरी, तमिल — जिस भाषा में आप सहज हों, उसी में लिखें। हम उसे पढ़ने का तरीका खोज लेंगे।</span></span>
+            </div>
+            <button type="submit" class="btn btn-primary btn-lg" style="align-self: flex-start;"><span class="lang-en">Send message</span><span class="lang-hi">संदेश भेजें</span> <span class="arrow">→</span></button>
+          </div>
+          <div class="form-success" hidden>
+            <div class="success-mark" aria-hidden="true">✓</div>
+            <h3 class="mt-16"><span class="lang-en">Message received.</span><span class="lang-hi">संदेश प्राप्त हुआ।</span></h3>
+            <p class="mt-8"><span class="lang-en">A researcher will write back within a few working days.</span><span class="lang-hi">एक शोधकर्ता कुछ कार्य-दिवसों में जवाब देगा।</span></p>
+          </div>
+        </form>
+
+        <!-- ===== Contact info ===== -->
+        <div class="contact-info-card reveal">
+          <span class="eyebrow"><span class="lang-en">Reach us directly</span><span class="lang-hi">सीधे संपर्क करें</span></span>
+
+          <div class="contact-row" style="margin-top: 12px;">
+            <div class="ic" aria-hidden="true">✉</div>
+            <div>
+              <div class="lbl"><span class="lang-en">Email</span><span class="lang-hi">ईमेल</span></div>
+              <div class="val mono"><a href="mailto:gglascmadhubani@gmail.com">gglascmadhubani@gmail.com</a></div>
+            </div>
+          </div>
+          <div class="contact-row">
+            <div class="ic" aria-hidden="true">☏</div>
+            <div>
+              <div class="lbl"><span class="lang-en">Telephone</span><span class="lang-hi">दूरभाष</span></div>
+              <div class="val"><a href="tel:+919818715453">+91 98187 15453</a></div>
+            </div>
+          </div>
+          <div class="contact-row">
+            <div class="ic" aria-hidden="true">⌂</div>
+            <div>
+              <div class="lbl"><span class="lang-en">Head Office</span><span class="lang-hi">मुख्यालय</span></div>
+              <div class="val">
+                <span class="lang-en">Global Girmitiya Lineage Archive &amp; Searching Centre<br>Mahavir Singh Memorial Trust Campus<br>Village Bishanpur, P.O. Baika-Bishanpur<br>Via Ghoghardiha, District Madhubani<br>Bihar 847402, India</span>
+                <span class="lang-hi">वैश्विक गिरमिटिया वंशावली अभिलेखागार एवं खोज केंद्र<br>महावीर सिंह स्मारक न्यास परिसर<br>ग्राम बिशनपुर, पो. बैका-बिशनपुर<br>व्हाया घोघरडीहा, ज़िला मधुबनी<br>बिहार 847402, भारत</span>
+              </div>
+            </div>
+          </div>
+
+          <p class="muted mt-24" style="font-size: 0.86rem;">
+            <span class="lang-en">Visitors are warmly received at the Trust campus by prior arrangement. Please write or call ahead so a coordinator can meet you.</span>
+            <span class="lang-hi">पूर्व सूचना देकर पधारने वाले अतिथियों का न्यास परिसर में सादर स्वागत है। कृपया पूर्व में लिखें या फोन करें ताकि एक समन्वयक आपसे मिल सके।</span>
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== Response-time note ===== -->
+  <section class="section-sm">
+    <div class="container">
+      <div class="grid grid-3 reveal">
+        <div class="card">
+          <div class="card-icon">⏲</div>
+          <h3><span class="lang-en">Response time</span><span class="lang-hi">जवाब का समय</span></h3>
+          <p><span class="lang-en">We aim to respond within five working days. Manual look-ups in source archives can take longer — usually two to six weeks, depending on the country and the depth of the search.</span><span class="lang-hi">हम पाँच कार्य-दिवसों के भीतर उत्तर देने का प्रयास करते हैं। स्रोत-अभिलेखागारों में मैनुअल खोज में अधिक समय लग सकता है — सामान्यतः दो से छह सप्ताह, देश और खोज की गहराई पर निर्भर।</span></p>
+        </div>
+        <div class="card">
+          <div class="card-icon sepia">⚖</div>
+          <h3><span class="lang-en">Cost</span><span class="lang-hi">शुल्क</span></h3>
+          <p><span class="lang-en">The search and the response are free. For complex multi-archive look-ups we may ask whether you wish to support the cost of records-office fees; we will tell you before any spend.</span><span class="lang-hi">खोज और उत्तर मुफ्त हैं। जटिल बहु-अभिलेखागार खोजों के लिए हम पूछ सकते हैं कि क्या आप अभिलेखागार-शुल्क का सहयोग करना चाहेंगे; किसी भी व्यय से पहले हम आपको बताएँगे।</span></p>
+        </div>
+        <div class="card">
+          <div class="card-icon rust">⌖</div>
+          <h3><span class="lang-en">Privacy</span><span class="lang-hi">गोपनीयता</span></h3>
+          <p><span class="lang-en">Your details and family records are never shared without your consent. If a match crosses families, we contact both sides before any introduction is made.</span><span class="lang-hi">आपके विवरण और पारिवारिक अभिलेख आपकी सहमति के बिना कभी साझा नहीं किए जाते। यदि कोई मिलान विभिन्न परिवारों के बीच होता है, तो किसी भी परिचय से पहले हम दोनों पक्षों से संपर्क करते हैं।</span></p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <a href="index.html" class="brand">
+            <span class="brand-mark">GG</span>
+            <span class="brand-text">
+              <span class="brand-name">GGLASC</span>
+              <span class="brand-tag"><span class="lang-en">Est. 22 March 2025 · Bishanpur, Bihar</span><span class="lang-hi">स्थापना 22 मार्च 2025 · बिशनपुर, बिहार</span></span>
+            </span>
+          </a>
+          <p><span class="lang-en">A global, open archive for the descendants of the Indian indentured-labour diaspora.</span><span class="lang-hi">भारतीय अनुबंधित श्रमिक प्रवासी समुदाय के वंशजों के लिए एक वैश्विक, खुला अभिलेखागार।</span></p>
+        </div>
+        <div>
+          <div class="footer-title"><span class="lang-en">Archive</span><span class="lang-hi">अभिलेखागार</span></div>
+          <ul class="footer-list">
+            <li><a href="search.html"><span class="lang-en">Search records</span><span class="lang-hi">अभिलेख खोजें</span></a></li>
+            <li><a href="contribute.html"><span class="lang-en">Contribute records</span><span class="lang-hi">अभिलेख दें</span></a></li>
+            <li><a href="awardees.html"><span class="lang-en">Awardees</span><span class="lang-hi">सम्मानित</span></a></li>
+            <li><a href="about.html#sources"><span class="lang-en">Source archives</span><span class="lang-hi">स्रोत अभिलेखागार</span></a></li>
+            <li><a href="about.html#methodology"><span class="lang-en">Methodology</span><span class="lang-hi">कार्यविधि</span></a></li>
+          </ul>
+        </div>
+        <div>
+          <div class="footer-title"><span class="lang-en">Centre</span><span class="lang-hi">केंद्र</span></div>
+          <ul class="footer-list">
+            <li><a href="about.html"><span class="lang-en">About GGLASC</span><span class="lang-hi">GGLASC के बारे में</span></a></li>
+            <li><a href="contact.html"><span class="lang-en">Contact</span><span class="lang-hi">संपर्क</span></a></li>
+            <li><a href="contribute.html#partner"><span class="lang-en">Partner with us</span><span class="lang-hi">साझेदारी</span></a></li>
+          </ul>
+        </div>
+        <div>
+          <div class="footer-title"><span class="lang-en">Stay in touch</span><span class="lang-hi">संपर्क में रहें</span></div>
+          <p style="color: rgba(245,239,226,.6); font-size: 0.92rem;"><span class="lang-en">Quarterly notes on new records and found families.</span><span class="lang-hi">नए अभिलेखों और मिले परिवारों पर त्रैमासिक समाचार।</span></p>
+          <form class="newsletter" data-mailto="gglascmadhubani@gmail.com" data-mailto-subject="Newsletter signup — gglasc.com">
+            <input type="email" name="email" required data-i18n-attr="placeholder" data-en-placeholder="your@email.com" data-hi-placeholder="your@email.com">
+            <button type="submit"><span class="lang-en">Subscribe</span><span class="lang-hi">सब्सक्राइब</span></button>
+          </form>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© <span data-year>2026</span> · Global Girmitiya Lineage Archive &amp; Searching Centre · Mahavir Singh Memorial Trust</span>
+        <span><a href="contact.html"><span class="lang-en">Contact</span><span class="lang-hi">संपर्क</span></a> · <a href="#"><span class="lang-en">Privacy</span><span class="lang-hi">गोपनीयता</span></a></span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="assets/js/main.js?v=1"></script>
+</body>
+</html>

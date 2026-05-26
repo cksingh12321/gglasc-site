@@ -1,0 +1,226 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Search the Archive — GGLASC</title>
+  <meta name="description" content="Search the Global Girmitiya Lineage Archive — query the growing index of emigration passes, ship manifests, and arrival rolls by ancestor's name, year, ship, destination colony, or village of origin.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT@0,9..144,300..700,0..100;1,9..144,300..700,0..100&family=Inter:wght@400;500;600;700&family=Noto+Sans+Devanagari:wght@400;500;600;700&family=Noto+Serif+Devanagari:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css?v=1">
+  <link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
+  <style id="i18n-failsafe">
+    .lang-hi { display: none !important; }
+    html[lang="hi"] .lang-hi { display: inline !important; }
+    html[lang="hi"] .lang-en { display: none !important; }
+  </style>
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a href="index.html" class="brand">
+        <span class="brand-mark">GG</span>
+        <span class="brand-text">
+          <span class="brand-name"><span class="lang-en">Global Girmitiya Lineage Archive</span><span class="lang-hi">वैश्विक गिरमिटिया वंशावली अभिलेखागार</span></span>
+          <span class="brand-tag"><span class="lang-en">&amp; Searching Centre · A Division of Mahavir Singh Memorial Trust</span><span class="lang-hi">एवं खोज केंद्र · महावीर सिंह स्मारक न्यास का प्रभाग</span></span>
+        </span>
+      </a>
+      <nav class="nav" aria-label="Primary">
+        <a href="index.html"><span class="lang-en">Home</span><span class="lang-hi">मुख्य पृष्ठ</span></a>
+        <a href="about.html"><span class="lang-en">About</span><span class="lang-hi">परिचय</span></a>
+        <a href="search.html" class="active"><span class="lang-en">Search</span><span class="lang-hi">खोज</span></a>
+        <a href="awardees.html"><span class="lang-en">Awardees</span><span class="lang-hi">सम्मानित</span></a>
+        <a href="contribute.html"><span class="lang-en">Contribute</span><span class="lang-hi">योगदान</span></a>
+        <a href="contact.html"><span class="lang-en">Contact</span><span class="lang-hi">संपर्क</span></a>
+      </nav>
+      <div class="nav-actions">
+        <button class="lang-toggle" aria-label="Switch language / भाषा बदलें"><span class="lang-en-label">EN</span><span class="lang-sep"> / </span><span class="lang-hi-label">हिं</span></button>
+        <a href="contribute.html" class="btn btn-primary btn-sm"><span class="lang-en">Contribute</span><span class="lang-hi">योगदान</span></a>
+        <button class="menu-toggle" aria-label="Open menu" aria-expanded="false"><span></span><span></span><span></span></button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ===== Page hero ===== -->
+  <section class="page-hero">
+    <div class="container">
+      <div class="crumb reveal"><a href="index.html"><span class="lang-en">Home</span><span class="lang-hi">मुख्य पृष्ठ</span></a> · <span class="lang-en">Search</span><span class="lang-hi">खोज</span></div>
+      <span class="eyebrow reveal"><span class="lang-en">Search the Archive</span><span class="lang-hi">अभिलेख खोजें</span></span>
+      <h1 class="reveal mt-16"><span class="lang-en">Begin with whatever you <em>remember.</em></span><span class="lang-hi">शुरुआत वहीं से करें जो आपको <em>याद है।</em></span></h1>
+      <p class="lede reveal"><span class="lang-en">A name. A decade. A ship. A village. A district. Any one of these can begin a thread; together, they finish it. Every field is optional — fill what you know, leave what you don't.</span><span class="lang-hi">एक नाम. एक दशक. एक जहाज़. एक गाँव. एक जिला. इनमें से कोई एक भी एक धागा शुरू कर सकता है; एक साथ, वे उसे पूरा करते हैं। प्रत्येक खाना वैकल्पिक है — जो जानते हैं भरें, जो नहीं जानते छोड़ दें।</span></p>
+    </div>
+  </section>
+
+  <!-- ===== Search panel (full) ===== -->
+  <section class="section-sm">
+    <div class="container">
+      <form class="search-panel reveal" data-search>
+        <h3><span class="lang-en">Lineage search</span><span class="lang-hi">वंशावली खोज</span></h3>
+        <p class="hint"><span class="lang-en">All fields are optional. Older records often have variant spellings — we match across them.</span><span class="lang-hi">सभी खाने वैकल्पिक हैं। पुराने अभिलेखों में प्रायः वर्तनी के भेद होते हैं — हम उनके पार मिलान करते हैं।</span></p>
+
+        <div class="search-grid">
+          <div class="field">
+            <label for="q-name"><span class="lang-en">Ancestor's name</span><span class="lang-hi">पूर्वज का नाम</span></label>
+            <input type="text" id="q-name" name="name" data-i18n-attr="placeholder" data-en-placeholder="e.g. Ramnarine, Sukhdeo, Lakshmi" data-hi-placeholder="जैसे रामनरेन, सुखदेव, लक्ष्मी">
+          </div>
+          <div class="field">
+            <label for="q-year"><span class="lang-en">Year / decade</span><span class="lang-hi">वर्ष / दशक</span></label>
+            <input type="text" id="q-year" name="year" data-i18n-attr="placeholder" data-en-placeholder="e.g. 1879 or 1870s" data-hi-placeholder="जैसे 1879 या 1870s">
+          </div>
+          <div class="field">
+            <label for="q-dest"><span class="lang-en">Destination colony</span><span class="lang-hi">गंतव्य उपनिवेश</span></label>
+            <select id="q-dest" name="destination">
+              <option value="">Any</option>
+              <option value="mauritius">Mauritius</option>
+              <option value="guyana">British Guiana (Guyana)</option>
+              <option value="trinidad">Trinidad &amp; Tobago</option>
+              <option value="fiji">Fiji</option>
+              <option value="suriname">Suriname</option>
+              <option value="natal">Natal, South Africa</option>
+              <option value="reunion">Réunion</option>
+              <option value="jamaica">Jamaica</option>
+              <option value="other">Other</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="q-district"><span class="lang-en">District / village of origin</span><span class="lang-hi">मूल जिला / गाँव</span></label>
+            <input type="text" id="q-district" name="district" data-i18n-attr="placeholder" data-en-placeholder="e.g. Basti, Ballia, Chhapra" data-hi-placeholder="जैसे बस्ती, बलिया, छपरा">
+          </div>
+          <div class="field">
+            <label for="q-ship"><span class="lang-en">Ship name (if known)</span><span class="lang-hi">जहाज़ का नाम (यदि ज्ञात)</span></label>
+            <input type="text" id="q-ship" name="ship" data-i18n-attr="placeholder" data-en-placeholder="e.g. Atlas, Leonidas, Sutlej" data-hi-placeholder="जैसे एटलस, लेओनिडास, सतलज">
+          </div>
+          <div class="field">
+            <label for="q-depot"><span class="lang-en">Emigration depot</span><span class="lang-hi">प्रवासन डिपो</span></label>
+            <select id="q-depot" name="depot">
+              <option value="">Any</option>
+              <option value="calcutta">Calcutta</option>
+              <option value="madras">Madras</option>
+              <option value="bombay">Bombay</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="q-age"><span class="lang-en">Approx. age at sailing</span><span class="lang-hi">यात्रा के समय अनुमानित आयु</span></label>
+            <input type="text" id="q-age" name="age" data-i18n-attr="placeholder" data-en-placeholder="e.g. 22 or 18–25" data-hi-placeholder="जैसे 22 या 18–25">
+          </div>
+          <div class="field">
+            <label for="q-caste"><span class="lang-en">Caste / community (as recorded)</span><span class="lang-hi">जाति / समुदाय (जैसा दर्ज है)</span></label>
+            <input type="text" id="q-caste" name="caste" data-i18n-attr="placeholder" data-en-placeholder="optional" data-hi-placeholder="वैकल्पिक">
+          </div>
+        </div>
+
+        <div class="search-actions">
+          <span class="note"><span class="lang-en">Free to search · No account needed · Records are not made public without consent</span><span class="lang-hi">मुफ्त खोज · खाते की आवश्यकता नहीं · बिना सहमति अभिलेख सार्वजनिक नहीं किए जाते</span></span>
+          <button type="submit" class="btn btn-primary"><span class="lang-en">Search records</span><span class="lang-hi">अभिलेख खोजें</span> <span class="arrow">→</span></button>
+        </div>
+
+        <div class="search-empty" hidden>
+          <div class="icon" aria-hidden="true">✺</div>
+          <p>
+            <strong><span class="lang-en">The index is still being built.</span><span class="lang-hi">सूचकांक अभी निर्मित किया जा रहा है।</span></strong><br>
+            <span class="lang-en">We are digitising emigration passes and ship manifests in stages, and a public search endpoint is not yet live. In the meantime, <a href="contact.html">write to the centre</a> with the details above — many of our matches are made by hand by researchers who can check sources the index does not yet cover.</span>
+            <span class="lang-hi">हम चरणबद्ध रूप से प्रवासन-पत्र और जहाज़ी सूचियाँ अंकीकृत कर रहे हैं, और सार्वजनिक खोज-समापन्न अभी सक्रिय नहीं है। तब तक, <a href="contact.html">केंद्र को लिखें</a> उपरोक्त विवरण के साथ — हमारे कई मिलान हाथ से शोधकर्ताओं द्वारा किए जाते हैं, जो उन स्रोतों की जाँच कर सकते हैं जिन्हें सूचकांक अभी कवर नहीं करता।</span>
+          </p>
+        </div>
+      </form>
+    </div>
+  </section>
+
+  <!-- ===== Tips ===== -->
+  <section class="section">
+    <div class="container">
+      <div class="s-head reveal">
+        <span class="eyebrow"><span class="lang-en">Search tips</span><span class="lang-hi">खोज सुझाव</span></span>
+        <h2 class="mt-16"><span class="lang-en">Reading the records <em>as they were written.</em></span><span class="lang-hi">अभिलेखों को पढ़ना <em>जैसे वे लिखे गए थे।</em></span></h2>
+      </div>
+
+      <div class="grid grid-2 reveal">
+        <div class="card">
+          <h3><span class="lang-en">Names are rarely consistent</span><span class="lang-hi">नाम प्रायः एक-समान नहीं होते</span></h3>
+          <p><span class="lang-en">Colonial clerks wrote names by ear. "Ramnarine" can appear as <em>Ram Narain, Ramnarayan, Ram Naraen, Ramnerene</em>. Search by a portion of the name and let the index find variants — try just <em>"Narain"</em> or <em>"Ram Nar"</em>.</span><span class="lang-hi">औपनिवेशिक मुंशी नाम कानों से लिखते थे। "रामनरेन" <em>राम नारायण, रामनरायन, राम नरैन, रामनेरेन</em> के रूप में मिल सकता है। नाम के एक भाग से खोजें और सूचकांक को विभिन्न रूप ढूँढने दें — केवल <em>"नारायण"</em> या <em>"राम नर"</em> आज़माएँ।</span></p>
+        </div>
+        <div class="card">
+          <h3><span class="lang-en">Villages travel as districts</span><span class="lang-hi">गाँव जिलों के रूप में दर्ज होते थे</span></h3>
+          <p><span class="lang-en">Most emigration registers recorded the district (zillah), not the village. If you know a village name, search by it — but also try the district it falls in (e.g. Ballia, Basti, Gonda, Faizabad, Chhapra, Arrah, Gaya).</span><span class="lang-hi">अधिकांश प्रवासन-पंजिकाओं ने ज़िला दर्ज किया, गाँव नहीं। यदि आप कोई गाँव जानते हैं, उसी से खोजें — लेकिन उसके जिले से भी आज़माएँ (जैसे बलिया, बस्ती, गोंडा, फैज़ाबाद, छपरा, आरा, गया)।</span></p>
+        </div>
+        <div class="card">
+          <h3><span class="lang-en">Ship + year is a strong key</span><span class="lang-hi">जहाज़ + वर्ष — एक मज़बूत कुंजी</span></h3>
+          <p><span class="lang-en">If a family story preserves the name of the ship — the <em>Leonidas</em>, the <em>Sutlej</em>, the <em>Sangola</em> — combined with a decade, this often narrows the search to a few hundred passengers on one manifest.</span><span class="lang-hi">यदि किसी पारिवारिक कथा में जहाज़ का नाम सुरक्षित है — <em>लेओनिडास</em>, <em>सतलज</em>, <em>संगोला</em> — और साथ में दशक हो, तो खोज प्रायः एक ही सूची के कुछ सौ यात्रियों तक सिमट जाती है।</span></p>
+        </div>
+        <div class="card">
+          <h3><span class="lang-en">Ages and castes were approximate</span><span class="lang-hi">आयु और जाति अनुमानित थे</span></h3>
+          <p><span class="lang-en">Recorded ages were often guessed by the depot doctor. Caste entries reflect what was declared at signing, which sometimes was strategic. Use these as soft filters, not strict ones.</span><span class="lang-hi">दर्ज की गई आयु प्रायः डिपो के डॉक्टर द्वारा अनुमानित होती थी। जाति की प्रविष्टि वही दर्शाती है जो हस्ताक्षर के समय घोषित की गई थी, जो कभी-कभी रणनीतिक होती थी। इन्हें कठोर नहीं, मुलायम छानक के रूप में प्रयोग करें।</span></p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== CTA ===== -->
+  <section class="section">
+    <div class="container">
+      <div class="cta-banner reveal">
+        <div>
+          <span class="eyebrow" style="color: rgba(245,239,226,.7);"><span class="lang-en">No match yet?</span><span class="lang-hi">अभी कोई मिलान नहीं?</span></span>
+          <h2 class="mt-16"><span class="lang-en">Tell us what you know. <em>We search by hand too.</em></span><span class="lang-hi">जो आप जानते हैं, हमें बताएँ। <em>हम हाथ से भी खोजते हैं।</em></span></h2>
+          <p><span class="lang-en">Send the centre your details — name, story, what's been passed down — and a researcher will reach back with what they find in the source archives.</span><span class="lang-hi">केंद्र को अपने विवरण भेजें — नाम, कहानी, जो कुछ पीढ़ी-दर-पीढ़ी सौंपा गया — और एक शोधकर्ता स्रोत-अभिलेखागारों में जो पाएगा वह आपको वापस बताएगा।</span></p>
+          <div class="actions">
+            <a href="contact.html" class="btn btn-primary"><span class="lang-en">Request a manual look-up</span><span class="lang-hi">मैनुअल खोज का अनुरोध करें</span> <span class="arrow">→</span></a>
+            <a href="contribute.html" class="btn btn-ghost" style="border-color: rgba(245,239,226,.4); color: var(--cream);"><span class="lang-en">Or contribute a record</span><span class="lang-hi">या एक अभिलेख दें</span></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <a href="index.html" class="brand">
+            <span class="brand-mark">GG</span>
+            <span class="brand-text">
+              <span class="brand-name">GGLASC</span>
+              <span class="brand-tag"><span class="lang-en">Est. 22 March 2025 · Bishanpur, Bihar</span><span class="lang-hi">स्थापना 22 मार्च 2025 · बिशनपुर, बिहार</span></span>
+            </span>
+          </a>
+          <p><span class="lang-en">A global, open archive for the descendants of the Indian indentured-labour diaspora — built record by record, family by family.</span><span class="lang-hi">भारतीय अनुबंधित श्रमिक प्रवासी समुदाय के वंशजों के लिए एक वैश्विक, खुला अभिलेखागार।</span></p>
+        </div>
+        <div>
+          <div class="footer-title"><span class="lang-en">Archive</span><span class="lang-hi">अभिलेखागार</span></div>
+          <ul class="footer-list">
+            <li><a href="search.html"><span class="lang-en">Search records</span><span class="lang-hi">अभिलेख खोजें</span></a></li>
+            <li><a href="contribute.html"><span class="lang-en">Contribute records</span><span class="lang-hi">अभिलेख दें</span></a></li>
+            <li><a href="awardees.html"><span class="lang-en">Awardees</span><span class="lang-hi">सम्मानित</span></a></li>
+            <li><a href="about.html#sources"><span class="lang-en">Source archives</span><span class="lang-hi">स्रोत अभिलेखागार</span></a></li>
+            <li><a href="about.html#methodology"><span class="lang-en">Methodology</span><span class="lang-hi">कार्यविधि</span></a></li>
+          </ul>
+        </div>
+        <div>
+          <div class="footer-title"><span class="lang-en">Centre</span><span class="lang-hi">केंद्र</span></div>
+          <ul class="footer-list">
+            <li><a href="about.html"><span class="lang-en">About GGLASC</span><span class="lang-hi">GGLASC के बारे में</span></a></li>
+            <li><a href="contact.html"><span class="lang-en">Contact</span><span class="lang-hi">संपर्क</span></a></li>
+            <li><a href="contribute.html#partner"><span class="lang-en">Partner with us</span><span class="lang-hi">साझेदारी</span></a></li>
+          </ul>
+        </div>
+        <div>
+          <div class="footer-title"><span class="lang-en">Stay in touch</span><span class="lang-hi">संपर्क में रहें</span></div>
+          <p style="color: rgba(245,239,226,.6); font-size: 0.92rem;"><span class="lang-en">Quarterly notes on new records and found families.</span><span class="lang-hi">नए अभिलेखों और मिले परिवारों पर त्रैमासिक समाचार।</span></p>
+          <form class="newsletter" data-mailto="gglascmadhubani@gmail.com" data-mailto-subject="Newsletter signup — gglasc.com">
+            <input type="email" name="email" required data-i18n-attr="placeholder" data-en-placeholder="your@email.com" data-hi-placeholder="your@email.com">
+            <button type="submit"><span class="lang-en">Subscribe</span><span class="lang-hi">सब्सक्राइब</span></button>
+          </form>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© <span data-year>2026</span> · Global Girmitiya Lineage Archive &amp; Searching Centre · Mahavir Singh Memorial Trust</span>
+        <span><a href="contact.html"><span class="lang-en">Contact</span><span class="lang-hi">संपर्क</span></a> · <a href="#"><span class="lang-en">Privacy</span><span class="lang-hi">गोपनीयता</span></a></span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="assets/js/main.js?v=1"></script>
+</body>
+</html>
