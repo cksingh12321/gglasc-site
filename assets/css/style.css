@@ -188,9 +188,27 @@ em { font-style: italic; color: var(--sepia-deep); font-family: var(--serif); }
   box-shadow: var(--shadow-sm);
   flex-shrink: 0;
 }
-.brand-text { display: flex; flex-direction: column; line-height: 1.1; }
+.brand-text { display: flex; flex-direction: column; line-height: 1.1; min-width: 0; max-width: 360px; }
 .brand-name { font-family: var(--serif); font-weight: 600; font-size: 1.02rem; color: var(--ink); letter-spacing: -0.01em; }
 .brand-tag { font-size: 0.7rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-soft); margin-top: 3px; }
+
+/* On narrower viewports the long subtitle blew up the header.
+   Tablet+down: drop the divisional subtitle so brand stays compact. */
+@media (max-width: 980px) {
+  .brand-text { max-width: 280px; }
+  .brand-name { font-size: 0.96rem; }
+  .brand-tag { display: none; }
+}
+@media (max-width: 540px) {
+  .brand-text { max-width: none; }
+  .brand-name { font-size: 1rem; line-height: 1.15; white-space: nowrap; }
+  /* Replace the long name with "GGLASC" via CSS at very narrow widths */
+  .brand-name .lang-en, .brand-name .lang-hi { display: none !important; }
+  .brand-name::after {
+    content: "GGLASC";
+  }
+  html[lang="hi"] .brand-name::after { content: "GGLASC"; }
+}
 
 .nav {
   display: flex; align-items: center; gap: 4px;
