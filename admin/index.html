@@ -5,6 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>GGLASC — Admin</title>
   <link rel="icon" type="image/svg+xml" href="/assets/img/favicon.svg">
+  <!-- Force absolute path so Decap finds config.yml even when /admin/ → /admin redirects strip the trailing slash -->
+  <link href="/admin/config.yml" type="text/yaml" rel="cms-config-url">
 </head>
 <body>
   <!--
