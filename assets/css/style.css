@@ -378,6 +378,17 @@ em { font-style: italic; color: var(--sepia-deep); font-family: var(--serif); }
   line-height: 1.1;
 }
 
+/* On narrow viewports the pass-stamp collided with the pass-corner badge.
+   Reserve right-padding on the stamp so they don't overlap, and shrink
+   the corner badge slightly at very small widths. */
+@media (max-width: 640px) {
+  .pass-stamp { max-width: calc(100% - 72px); padding: 5px 12px; font-size: 0.66rem; letter-spacing: 0.18em; }
+  .pass-corner { width: 46px; height: 46px; top: 20px; right: 20px; font-size: 0.62rem; }
+}
+@media (max-width: 420px) {
+  .pass-stamp { font-size: 0.6rem; letter-spacing: 0.14em; }
+}
+
 /* ---------- Search panel (hero CTA on home + dedicated page) ---------- */
 .search-panel {
   background: var(--paper);
