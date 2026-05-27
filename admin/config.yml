@@ -1,0 +1,49 @@
+# Decap CMS configuration
+# Edits commit to GitHub directly. Auth flow proxied via /api/auth + /api/callback.
+
+backend:
+  name: github
+  repo: cksingh12321/gglasc-site
+  branch: main
+  base_url: https://gglasc-site.vercel.app
+  auth_endpoint: api/auth
+
+site_url: https://gglasc-site.vercel.app
+display_url: https://gglasc-site.vercel.app
+logo_url: /assets/img/favicon.svg
+
+# Where Decap uploads images (drag-and-drop in editor)
+media_folder: assets/img/articles
+public_folder: /assets/img/articles
+
+# Collections
+collections:
+  - name: articles
+    label: Articles
+    label_singular: Article
+    folder: content/articles
+    create: true
+    slug: "{{slug}}"
+    extension: md
+    format: yaml-frontmatter
+    summary: "{{title}} — {{date}}"
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: slug, label: URL Slug, widget: string, hint: "lowercase, hyphens-only, no spaces" }
+      - { name: date, label: Publish Date, widget: datetime, format: YYYY-MM-DD, date_format: YYYY-MM-DD, time_format: false, default: "" }
+      - { name: author, label: Author, widget: string, default: "GGLASC Editorial" }
+      - name: categories
+        label: Categories
+        widget: select
+        multiple: true
+        options:
+          - "History of Girmitiya"
+          - "Cover Stories"
+          - "News"
+          - "Tourist Paradise"
+          - "Research"
+          - "Uncategorized"
+        default: ["History of Girmitiya"]
+      - { name: hero_image, label: "Hero Image", widget: image, required: false }
+      - { name: hero_alt, label: "Hero Image Caption / Alt Text", widget: string, required: false }
+      - { name: body, label: Body, widget: markdown }

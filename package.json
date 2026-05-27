@@ -1,0 +1,17 @@
+{
+  "name": "gglasc-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Global Girmitiya Lineage Archive & Searching Centre — static site with markdown article pipeline",
+  "scripts": {
+    "build": "node scripts/build-articles.js",
+    "dev": "node scripts/build-articles.js && python3 -m http.server 5896"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "marked": "^14.1.3"
+  }
+}
