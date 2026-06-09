@@ -558,6 +558,96 @@ em { font-style: italic; color: var(--sepia-deep); font-family: var(--serif); }
 .card-link .arrow { transition: transform .25s var(--ease); }
 .card:hover .card-link .arrow { transform: translateX(4px); }
 
+/* ---------- Public Archives Directory (search page) ---------- */
+.archive-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+@media (max-width: 760px) { .archive-grid { grid-template-columns: 1fr; } }
+.archive-card {
+  background: var(--cream);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  display: flex;
+  text-decoration: none;
+  color: inherit;
+  transition: transform .25s var(--ease), box-shadow .25s var(--ease), border-color .25s var(--ease);
+}
+.archive-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-md);
+  border-color: var(--line-strong);
+}
+.archive-flag {
+  width: 6px;
+  flex-shrink: 0;
+  background: linear-gradient(180deg, var(--teal) 0%, var(--sepia) 100%);
+}
+.archive-flag.mauritius     { background: linear-gradient(180deg, #e02020 0 25%, #2c5aa0 25% 50%, #f5d800 50% 75%, #00a651 75% 100%); }
+.archive-flag.mauritius-mgi { background: linear-gradient(180deg, #ff9933 0%, #138808 100%); }
+.archive-flag.fiji          { background: linear-gradient(180deg, #5dabd1 0%, #3f87b3 100%); }
+.archive-flag.uk            { background: linear-gradient(180deg, #012169 0%, #c8102e 50%, #ffffff 100%); }
+.archive-flag.netherlands   { background: linear-gradient(180deg, #ae1c28 0 33%, #ffffff 33% 66%, #21468b 66% 100%); }
+.archive-flag.caribbean     { background: linear-gradient(180deg, #ce1126 0 33%, #fcd116 33% 66%, #007749 66% 100%); }
+.archive-flag.guyana        { background: linear-gradient(180deg, #e8552d 0%, #009e60 100%); }
+.archive-flag.multi         { background: linear-gradient(180deg, var(--teal) 0%, var(--rust) 50%, var(--sepia) 100%); }
+.archive-card-body {
+  padding: 22px 24px 22px 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex: 1;
+}
+.archive-region {
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--sepia-deep);
+  font-weight: 600;
+}
+.archive-card h3 {
+  font-family: var(--serif);
+  font-size: 1.18rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+  color: var(--ink);
+  margin: 0;
+}
+.archive-coverage {
+  font-size: 0.94rem;
+  color: var(--ink-muted);
+  line-height: 1.5;
+  margin: 4px 0;
+}
+.archive-meta {
+  font-size: 0.84rem;
+  font-style: italic;
+  color: var(--ink-soft);
+  font-family: var(--serif);
+}
+.archive-meta strong {
+  font-style: normal;
+  font-family: var(--sans);
+  font-weight: 600;
+  color: var(--teal-deep);
+}
+.archive-link {
+  margin-top: auto;
+  padding-top: 8px;
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--teal-deep);
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+.archive-card:hover .archive-link { color: var(--ink); }
+.archive-link .arrow { font-size: 0.95rem; transition: transform .25s var(--ease); }
+.archive-card:hover .archive-link .arrow { transform: translate(2px, -2px); }
+
 /* ---------- Destinations grid (countries) ---------- */
 .dest-grid {
   display: grid;

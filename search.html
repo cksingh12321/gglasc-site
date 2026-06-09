@@ -8,7 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT@0,9..144,300..700,0..100;1,9..144,300..700,0..100&family=Inter:wght@400;500;600;700&family=Noto+Sans+Devanagari:wght@400;500;600;700&family=Noto+Serif+Devanagari:wght@500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/css/style.css?v=5">
+  <link rel="stylesheet" href="assets/css/style.css?v=6">
   <link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
   <style id="i18n-failsafe">
     .lang-hi { display: none !important; }
@@ -120,12 +120,120 @@
         <div class="search-empty" hidden>
           <div class="icon" aria-hidden="true">✺</div>
           <p>
-            <strong><span class="lang-en">The index is still being built.</span><span class="lang-hi">सूचकांक अभी निर्मित किया जा रहा है।</span></strong><br>
-            <span class="lang-en">We are digitising emigration passes and ship manifests in stages, and a public search endpoint is not yet live. In the meantime, <a href="contact.html">write to the centre</a> with the details above — many of our matches are made by hand by researchers who can check sources the index does not yet cover.</span>
-            <span class="lang-hi">हम चरणबद्ध रूप से प्रवासन-पत्र और जहाज़ी सूचियाँ अंकीकृत कर रहे हैं, और सार्वजनिक खोज-समापन्न अभी सक्रिय नहीं है। तब तक, <a href="contact.html">केंद्र को लिखें</a> उपरोक्त विवरण के साथ — हमारे कई मिलान हाथ से शोधकर्ताओं द्वारा किए जाते हैं, जो उन स्रोतों की जाँच कर सकते हैं जिन्हें सूचकांक अभी कवर नहीं करता।</span>
+            <strong><span class="lang-en">Our own index is still being built.</span><span class="lang-hi">हमारा अपना सूचकांक अभी निर्मित किया जा रहा है।</span></strong><br>
+            <span class="lang-en">While we digitise the centre's records, you can search any of the <a href="#public-archives">public archives listed below</a> right now, or <a href="contact.html">write to the centre</a> for a manual look-up by one of our researchers.</span>
+            <span class="lang-hi">जब तक हम केंद्र के अभिलेख अंकीकृत कर रहे हैं, आप अभी नीचे सूचीबद्ध <a href="#public-archives">सार्वजनिक अभिलेखागारों</a> में से किसी में भी खोज कर सकते हैं, या मैनुअल खोज के लिए <a href="contact.html">केंद्र को लिखें</a>।</span>
           </p>
         </div>
       </form>
+    </div>
+  </section>
+
+  <!-- ===== Public Archives Directory ===== -->
+  <section class="section" id="public-archives" style="background: var(--paper);">
+    <div class="container">
+      <div class="s-head reveal">
+        <span class="eyebrow"><span class="lang-en">Public Archives Worldwide</span><span class="lang-hi">विश्व-भर के सार्वजनिक अभिलेखागार</span></span>
+        <h2 class="mt-16"><span class="lang-en">Where else to <em>look right now.</em></span><span class="lang-hi">अभी और <em>कहाँ देखें।</em></span></h2>
+        <p class="lede"><span class="lang-en">Until GGLASC's own index is complete, these are the trusted public archives we recommend. Most are free to search by ancestor name, ship, or date.</span><span class="lang-hi">जब तक GGLASC का अपना सूचकांक पूर्ण नहीं होता, ये वे विश्वसनीय सार्वजनिक अभिलेखागार हैं जिनकी हम अनुशंसा करते हैं। अधिकांश में पूर्वज का नाम, जहाज़ या तिथि से मुफ्त खोज की जा सकती है।</span></p>
+      </div>
+
+      <div class="archive-grid">
+
+        <a href="https://www.aapravasighat.org" target="_blank" rel="noopener" class="archive-card reveal">
+          <div class="archive-flag mauritius"></div>
+          <div class="archive-card-body">
+            <span class="archive-region">Mauritius · 🇲🇺</span>
+            <h3>Aapravasi Ghat Trust Fund</h3>
+            <p class="archive-coverage"><span class="lang-en">UNESCO World Heritage immigration depot. The largest single Girmitiya database.</span><span class="lang-hi">यूनेस्को विश्व विरासत प्रवासन डिपो। सबसे बड़ा गिरमिटिया डेटाबेस।</span></p>
+            <p class="archive-meta"><strong>~450,000</strong> records · 1834–1910</p>
+            <span class="archive-link">Search at aapravasighat.org <span class="arrow">↗</span></span>
+          </div>
+        </a>
+
+        <a href="https://www.mgi.ac.mu" target="_blank" rel="noopener" class="archive-card reveal">
+          <div class="archive-flag mauritius-mgi"></div>
+          <div class="archive-card-body">
+            <span class="archive-region">Mauritius · 🇲🇺</span>
+            <h3>Mahatma Gandhi Institute</h3>
+            <p class="archive-coverage"><span class="lang-en">Indian Immigration Archive — academic catalogue of immigration tickets, ship rolls, and estate records.</span><span class="lang-hi">भारतीय प्रवासन अभिलेखागार — प्रवासन-टिकट, जहाज़ी सूचियाँ एवं बागान-अभिलेखों का अकादमिक सूचीपत्र।</span></p>
+            <p class="archive-meta">Archive section · Open to researchers</p>
+            <span class="archive-link">Visit mgi.ac.mu <span class="arrow">↗</span></span>
+          </div>
+        </a>
+
+        <a href="https://www.fijigirmit.org" target="_blank" rel="noopener" class="archive-card reveal">
+          <div class="archive-flag fiji"></div>
+          <div class="archive-card-body">
+            <span class="archive-region">Fiji · 🇫🇯</span>
+            <h3>Fiji Girmit Council</h3>
+            <p class="archive-coverage"><span class="lang-en">Searchable database of Indian indentured labourers brought to Fiji between 1879 and 1916.</span><span class="lang-hi">1879 से 1916 के बीच फिजी लाए गए भारतीय अनुबंधित श्रमिकों का खोज-योग्य डेटाबेस।</span></p>
+            <p class="archive-meta"><strong>~60,000</strong> records · By name, ship, depot</p>
+            <span class="archive-link">Search at fijigirmit.org <span class="arrow">↗</span></span>
+          </div>
+        </a>
+
+        <a href="https://discovery.nationalarchives.gov.uk" target="_blank" rel="noopener" class="archive-card reveal">
+          <div class="archive-flag uk"></div>
+          <div class="archive-card-body">
+            <span class="archive-region">United Kingdom · 🇬🇧</span>
+            <h3>The National Archives, Kew</h3>
+            <p class="archive-coverage"><span class="lang-en">Colonial Office (CO) series — emigration registers, ship manifests, and dispatches from every British indentured colony.</span><span class="lang-hi">कोलोनियल ऑफिस (CO) श्रेणी — हर ब्रिटिश अनुबंधन उपनिवेश से प्रवासन-पंजिकाएँ, जहाज़ी सूचियाँ एवं प्रेषण।</span></p>
+            <p class="archive-meta">Catalogue search · Some scans paywalled</p>
+            <span class="archive-link">Search discovery.nationalarchives.gov.uk <span class="arrow">↗</span></span>
+          </div>
+        </a>
+
+        <a href="https://www.nationaalarchief.nl" target="_blank" rel="noopener" class="archive-card reveal">
+          <div class="archive-flag netherlands"></div>
+          <div class="archive-card-body">
+            <span class="archive-region">Suriname / Netherlands · 🇳🇱</span>
+            <h3>Nationaal Archief, Den Haag</h3>
+            <p class="archive-coverage"><span class="lang-en">Hindustani contract-labourer registers for Suriname (1873–1916), digitised and indexed by name.</span><span class="lang-hi">सूरीनाम के लिए हिन्दुस्तानी अनुबंधित श्रमिक पंजिकाएँ (1873–1916), नाम से अंकीकृत एवं सूचीबद्ध।</span></p>
+            <p class="archive-meta"><strong>~34,000</strong> records · "Plantage Hindostanen"</p>
+            <span class="archive-link">Search nationaalarchief.nl <span class="arrow">↗</span></span>
+          </div>
+        </a>
+
+        <a href="https://uwispace.sta.uwi.edu" target="_blank" rel="noopener" class="archive-card reveal">
+          <div class="archive-flag caribbean"></div>
+          <div class="archive-card-body">
+            <span class="archive-region">Caribbean · 🇹🇹 🇬🇾</span>
+            <h3>UWI · Indian Caribbean Studies</h3>
+            <p class="archive-coverage"><span class="lang-en">University of the West Indies open-access repository — theses, papers, and primary-source scans on Trinidad and Guyana indenture.</span><span class="lang-hi">वेस्ट इंडीज विश्वविद्यालय का खुला-पहुँच भंडार — त्रिनिदाद एवं गयाना के अनुबंधन पर शोध-प्रबंध, पत्र एवं प्राथमिक-स्रोत स्कैन।</span></p>
+            <p class="archive-meta">Academic repository · UWISpace</p>
+            <span class="archive-link">Search uwispace.sta.uwi.edu <span class="arrow">↗</span></span>
+          </div>
+        </a>
+
+        <a href="https://www.nationalarchives.gov.gy" target="_blank" rel="noopener" class="archive-card reveal">
+          <div class="archive-flag guyana"></div>
+          <div class="archive-card-body">
+            <span class="archive-region">Guyana · 🇬🇾</span>
+            <h3>Walter Rodney Archives, Guyana</h3>
+            <p class="archive-coverage"><span class="lang-en">Guyana's national archive holds the original immigration registers from British Guiana (1838–1917) — Indian indentureds by ship and name.</span><span class="lang-hi">गयाना का राष्ट्रीय अभिलेखागार ब्रिटिश गयाना (1838–1917) की मूल आव्रजन पंजिकाएँ रखता है — जहाज़ एवं नाम से।</span></p>
+            <p class="archive-meta">~238,000 indentureds · Visit + request</p>
+            <span class="archive-link">Visit nationalarchives.gov.gy <span class="arrow">↗</span></span>
+          </div>
+        </a>
+
+        <a href="https://girmit.org" target="_blank" rel="noopener" class="archive-card reveal">
+          <div class="archive-flag multi"></div>
+          <div class="archive-card-body">
+            <span class="archive-region">Multi-country · 🌐</span>
+            <h3>Girmit.org · NewGirmit.org</h3>
+            <p class="archive-coverage"><span class="lang-en">Community-maintained alphabetical lists of Girmitiyas across Fiji, Mauritius, Suriname, Trinidad, Guyana — a useful first-pass index.</span><span class="lang-hi">फिजी, मॉरीशस, सूरीनाम, त्रिनिदाद, गयाना में गिरमिटियाओं की समुदाय-संचालित वर्णानुक्रमिक सूचियाँ — एक उपयोगी प्रथम-पास सूचकांक।</span></p>
+            <p class="archive-meta">Community project · Free</p>
+            <span class="archive-link">Search girmit.org <span class="arrow">↗</span></span>
+          </div>
+        </a>
+
+      </div>
+
+      <p class="muted reveal mt-32 center" style="font-size: 0.9rem; font-style: italic;">
+        <span class="lang-en">Found your ancestor in one of these archives? <a href="contribute.html">Send us a note</a> — we'll cross-link the record into the GGLASC index so the next descendant searching their line finds it faster.</span>
+        <span class="lang-hi">क्या आपको इनमें से किसी अभिलेखागार में अपना पूर्वज मिला? <a href="contribute.html">हमें सूचित करें</a> — हम उस अभिलेख को GGLASC सूचकांक से जोड़ देंगे ताकि अगला वंशज अपनी वंशावली शीघ्रता से खोज सके।</span>
+      </p>
     </div>
   </section>
 
@@ -223,6 +331,6 @@
     </div>
   </footer>
 
-  <script src="assets/js/main.js?v=5"></script>
+  <script src="assets/js/main.js?v=6"></script>
 </body>
 </html>
