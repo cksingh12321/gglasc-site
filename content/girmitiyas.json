@@ -519,6 +519,71 @@
       }
     },
     {
+      "id": "la-turquoise-cohort-1828-reunion",
+      "names": ["La Turquoise pioneer cohort", "15 Telinga workers"],
+      "gender": "M",
+      "age_at_sailing": null,
+      "caste": "Telinga (Telugu)",
+      "origin": { "village": "Yanaon (Yanam)", "district": "Yanam (French enclave on the Andhra coast)", "state": "French India (now Puducherry UT, India)" },
+      "depot": "Pondicherry / Yanaon",
+      "depot_date": "1828-04",
+      "ship": "La Turquoise (schooner)",
+      "sailing_date": "1828-04",
+      "destination": { "colony": "Réunion (Île Bourbon)", "arrival_date": "1828-04", "estate": "Réunion sugar industry — earliest indentured intake" },
+      "descendants_named": [],
+      "notes": "Pioneer cohort record. La Turquoise carried 15 Telugu-speaking workers from the French enclave of Yanaon to Île Bourbon (Réunion) in April 1828 — six years before the British 'Atlas' brought 36 Hill Dhangars to Mauritius. The earliest documented intake of Indian indentured labour anywhere in the European colonial world. Subsequent voyages 1828–1830 came from Yanaon, 1848–1860 from Pondicherry and Karikal, and 1860–1885 from British Calcutta + Madras.",
+      "source": {
+        "type": "history",
+        "title": "Indentured labour from India in 19th-century Reunion Island",
+        "url": "https://www.portail-esclavage-reunion.fr/en/documentaires/abolition-slavery/after-abolition/indentured-labour-from-india-in-19th-century-reunion-island/",
+        "publisher": "Portail des Mémoires de l'Esclavage à La Réunion / Le Mauricien"
+      }
+    },
+    {
+      "id": "fatel-razack-cohort-1845-trinidad",
+      "names": ["Fatel Razack / Fath Al Razack pioneer cohort", "Dookie Meah (passenger #4, founded Trinidad's first mosque)"],
+      "gender": "M+F (198 men, 29 women + 1 male and 1 female infant born en route)",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "North India (Bihar / UP / Bengal)" },
+      "depot": "Calcutta",
+      "depot_date": "1845-02-16",
+      "ship": "Fatel Razack (Fath Al Razack)",
+      "sailing_date": "1845-02-16",
+      "destination": { "colony": "Trinidad", "arrival_date": "1845-05-30", "estate": "Gulf of Paria — Dookie Meah was assigned to Exchange Estate, Couva" },
+      "descendants_named": [
+        "Dookie Meah's descendants (founder of Trinidad's first mosque)"
+      ],
+      "notes": "Pioneer cohort record. The Fatel Razack — owned by Indian Muslim trader Ibrahim bin Yusuf — departed Calcutta on 16 February 1845 and reached the Gulf of Paria on 30 May 1845 (Indian Arrival Day in Trinidad & Tobago). 227 boarded, 6 died en route, 2 infants born on board — 225 disembarked. Among them: Dookie Meah, listed as passenger #4 on the register, who went on to found Trinidad's first mosque.",
+      "source": {
+        "type": "history",
+        "title": "Fatel Razack — Wikipedia / National Trust of Trinidad & Tobago",
+        "url": "https://en.wikipedia.org/wiki/Fatel_Razack",
+        "publisher": "Wikipedia / National Trust T&T / Madras Courier / Trinidad Express"
+      }
+    },
+    {
+      "id": "blundell-cohort-1845-jamaica",
+      "names": ["SS Blundell pioneer cohort", "261 Indian indentured labourers"],
+      "gender": "M+F (200 men, 28 girls, 33 children)",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "North India (Bihar / UP / Bengal)" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": "SS Blundell",
+      "sailing_date": "1845",
+      "destination": { "colony": "Jamaica", "arrival_date": "1845-05-10", "estate": "Old Harbour Bay sugar estates" },
+      "descendants_named": [],
+      "notes": "Pioneer cohort record. The SS Blundell arrived at Old Harbour Bay, Jamaica on 10 May 1845 — just 20 days before the Fatel Razack reached Trinidad — carrying 261 Indian indentured workers from Calcutta. Their arrival began Jamaica's indentured intake of 37,027 Indians over the next 72 years (1845–1916). The Jamaica Indentureship Collection 1845–1958 is now part of UNESCO's Memory of the World register.",
+      "source": {
+        "type": "history",
+        "title": "SS Blundell — Jamaica's First Indian Indentured Servant Ship",
+        "url": "https://westindiandiplomacy.com/ss-blundell/",
+        "publisher": "West Indian Diplomacy / UNESCO Memory of the World / Jamaica Timeline"
+      }
+    },
+    {
       "id": "panday-grandparents-trinidad",
       "names": ["[Basdeo Panday's grandparents]"],
       "gender": "M+F",
