@@ -290,6 +290,118 @@
       }
     },
     {
+      "id": "moheeth-ramgoolam-1896-mauritius",
+      "names": ["Moheeth Ramgoolam", "Moheeth"],
+      "gender": "M",
+      "age_at_sailing": 18,
+      "caste": null,
+      "origin": { "village": "Harigaon", "district": null, "state": "Bihar" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": "The Hindoostan",
+      "sailing_date": "1896",
+      "destination": { "colony": "Mauritius", "arrival_date": "1896", "estate": "Queen Victoria Sugar Estate" },
+      "descendants_named": [
+        "Sir Seewoosagur Ramgoolam (son, 1900–1985, 1st Prime Minister of Mauritius, 'Father of the Nation')",
+        "Sir Navinchandra Ramgoolam (grandson, PM of Mauritius 1995–2000, 2005–2014, 2024– )"
+      ],
+      "notes": "Travelled at age 18 aboard 'The Hindoostan' from Calcutta. Worked as an indentured labourer and rose to Sirdar (overseer) at the Queen Victoria Sugar Estate. His elder brother Ramlochurn had already left Harigaon earlier. Father of Mauritius' founding PM.",
+      "source": {
+        "type": "biography",
+        "title": "Seewoosagur Ramgoolam — biographical profiles",
+        "url": "https://www.geni.com/people/The-Rt-Hon-Sir-Seewoosagur-Ramgoolam-GCMG-LRCP-MRCS/6000000131319932977",
+        "publisher": "Geni / NRI Today / Global Indian Network"
+      }
+    },
+    {
+      "id": "jugnauth-grandfather-mauritius",
+      "names": ["[Anerood Jugnauth's grandfather]"],
+      "gender": "M",
+      "age_at_sailing": null,
+      "caste": "Ahir / Yadav",
+      "origin": { "village": null, "district": "Ballia", "state": "Uttar Pradesh" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "19th century (mid-to-late)",
+      "destination": { "colony": "Mauritius", "arrival_date": null, "estate": "Sugar plantations (later settled near Palma village)" },
+      "descendants_named": [
+        "Ramlochun Jugnauth (son, small planter at Palma)",
+        "Sir Anerood Jugnauth (grandson, 1930–2021, 6th President & longest-serving PM of Mauritius)",
+        "Pravind Kumar Jugnauth (great-grandson, PM of Mauritius 2017–2024)"
+      ],
+      "notes": "Migrated from Ballia district during the indenture era to the Mauritian sugar plantations. The family settled near Palma village and spoke Bhojpuri at home — a thread that ran from Bihar into independence-era Mauritian politics.",
+      "source": {
+        "type": "encyclopaedia",
+        "title": "Anerood Jugnauth (Wikipedia / Global Indian)",
+        "url": "https://en.wikipedia.org/wiki/Anerood_Jugnauth",
+        "publisher": "Wikipedia"
+      }
+    },
+    {
+      "id": "lalla-rookh-cohort-1873-suriname",
+      "names": ["Lalla Rookh pioneer cohort", "399 Hindostani immigrants"],
+      "gender": "M+F (279 M, 70 F, 32 boys, 18 girls — 11 died en route)",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "Urdu/Avadhi/Bhojpuri/Maithili-speaking belt (Bihar + UP)" },
+      "depot": "Calcutta (Garden Reach)",
+      "depot_date": "1873-02-26",
+      "ship": "Lalla Rookh",
+      "sailing_date": "1873-02-26",
+      "destination": { "colony": "Suriname (Dutch Guiana)", "arrival_date": "1873-06-05", "estate": null },
+      "descendants_named": [],
+      "notes": "Pioneer cohort record. The Lalla Rookh — built 1853 in Boston as the 'Radiant', then American/British sailing ship — departed Calcutta with 410 immigrants and reached the mouth of the Suriname River after a 99-day voyage on 5 June 1873 (399 arrived; 11 died en route). This date is now Hindostani Immigration Day in Suriname.",
+      "source": {
+        "type": "history",
+        "title": "5 juni: Dag van aankomst in Suriname — Nationaal Archief",
+        "url": "https://www.nationaalarchief.nl/beleven/nieuws/5-juni-dag-van-aankomst-in-suriname",
+        "publisher": "Nationaal Archief (NL) / Hindorama / Hogeschool Rotterdam"
+      }
+    },
+    {
+      "id": "truro-davarum-family-1860-natal",
+      "names": ["Davarum", "Nagium (wife)", "Elizabeth (daughter, 1½ yrs)", "Kirbay (daughter, 4 yrs)"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "Madras Presidency (Tamil/Telugu region)" },
+      "depot": "Madras",
+      "depot_date": null,
+      "ship": "SS Truro",
+      "sailing_date": "1860-10-12",
+      "destination": { "colony": "Natal, South Africa", "arrival_date": "1860-11-16", "estate": "Indentured to WH Savory and JL Crompton" },
+      "descendants_named": [],
+      "notes": "The first four passengers registered on the SS Truro — the very first indentured ship to South Africa. Davarum and his family arrived in Port Natal (now Durban) on 16 November 1860 with 342 fellow Indian immigrants, beginning South Africa's Indian indenture system (1860–1911).",
+      "source": {
+        "type": "history",
+        "title": "List of passengers on the Truro, 16 November 1860 — South African History Online",
+        "url": "https://sahistory.org.za/article/list-passenger-truro-16-november-1860",
+        "publisher": "South African History Online / IOL / The Heritage Portal"
+      }
+    },
+    {
+      "id": "whitby-cohort-1838-british-guiana",
+      "names": ["Whitby & Hesperus pioneer cohort", "396 Indian indentureds"],
+      "gender": "M+F (Whitby: 233 men, 5 women, 6 children — 5 died en route)",
+      "age_at_sailing": null,
+      "caste": "Hill peoples and Bhojpuri/Awadhi speakers",
+      "origin": { "village": null, "district": null, "state": "North India (Bihar / UP / Bengal hills)" },
+      "depot": "Calcutta",
+      "depot_date": "1837-12-29 (indenture papers dated)",
+      "ship": "Whitby (sister ship: Hesperus)",
+      "sailing_date": "1838-01-13",
+      "destination": { "colony": "British Guiana (Guyana)", "arrival_date": "1838-05-05", "estate": "Plantation Highbury (Berbice — 117 labourers incl. 11 women), Waterloo, Belle View (West Demerara), Anna Regina (Essequibo)" },
+      "descendants_named": [],
+      "notes": "Pioneer cohort record. The Whitby (249 indentureds on board) and Hesperus arrived together at Berbice with 396 total Indian indentured workers — the very first to British Guiana. Voyage 112 days, 5 deaths en route. The arrival is now commemorated as Indian Arrival Day in Guyana (5 May). Backed by sugar-plantation owner John Gladstone in what was known as the 'Gladstone Experiment'.",
+      "source": {
+        "type": "history",
+        "title": "The Whitby and Hesperus: The First Indian Indentured Servant Ships to Guyana",
+        "url": "https://westindiandiplomacy.com/whitby-and-hesperus/",
+        "publisher": "West Indian Diplomacy / Guyana National Trust / Royal Historical Society"
+      }
+    },
+    {
       "id": "panday-grandparents-trinidad",
       "names": ["[Basdeo Panday's grandparents]"],
       "gender": "M+F",
