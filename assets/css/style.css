@@ -558,6 +558,93 @@ em { font-style: italic; color: var(--sepia-deep); font-family: var(--serif); }
 .card-link .arrow { transition: transform .25s var(--ease); }
 .card:hover .card-link .arrow { transform: translateX(4px); }
 
+/* ---------- Search results (real lineage search) ---------- */
+.search-results {
+  margin-top: 32px;
+  padding-top: 28px;
+  border-top: 1px solid var(--line);
+}
+.search-results-head {
+  font-size: 0.96rem;
+  color: var(--ink);
+  margin-bottom: 20px;
+}
+.search-results-head .muted { color: var(--ink-soft); font-weight: 400; }
+.search-empty-msg {
+  background: var(--cream);
+  border: 1px dashed var(--line-strong);
+  border-radius: var(--radius);
+  padding: 22px 24px;
+  font-size: 0.94rem;
+  color: var(--ink-muted);
+}
+.record-list { display: flex; flex-direction: column; gap: 18px; }
+.record-card {
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  padding: 22px 24px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.record-head {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--line);
+}
+.record-head h3 {
+  font-family: var(--serif);
+  font-size: 1.32rem;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  color: var(--ink);
+  line-height: 1.2;
+}
+.record-meta { display: flex; flex-wrap: wrap; gap: 8px; }
+.rm-pill {
+  background: rgba(31, 86, 115, 0.08);
+  color: var(--teal-deep);
+  font-size: 0.74rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  padding: 4px 10px;
+  border-radius: var(--radius-pill);
+}
+.record-fields {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 0;
+}
+.record-fields > div { display: grid; grid-template-columns: 130px 1fr; gap: 10px; align-items: baseline; }
+@media (max-width: 600px) {
+  .record-fields > div { grid-template-columns: 1fr; gap: 2px; }
+}
+.record-fields dt {
+  font-size: 0.74rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  font-weight: 600;
+}
+.record-fields dd { color: var(--ink-muted); font-size: 0.94rem; line-height: 1.5; margin: 0; }
+.record-fields dd ul { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 3px; }
+.record-fields dd ul li { padding-left: 12px; position: relative; }
+.record-fields dd ul li::before { content: "·"; position: absolute; left: 0; color: var(--sepia); font-weight: bold; }
+.record-source {
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+  font-size: 0.84rem;
+  color: var(--ink-soft);
+}
+.record-source .rs-label { letter-spacing: 0.08em; text-transform: uppercase; font-size: 0.72rem; font-weight: 600; margin-right: 6px; }
+.record-source a { color: var(--teal-deep); font-weight: 600; }
+.record-source a:hover { color: var(--ink); text-decoration: underline; }
+.search-note { font-size: 0.84rem; font-style: italic; margin-top: 18px; text-align: center; }
+
 /* ---------- Public Archives Directory (search page) ---------- */
 .archive-grid {
   display: grid;

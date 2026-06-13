@@ -1,0 +1,317 @@
+{
+  "$comment": "Girmitiya records compiled from cited primary and secondary sources. Every record carries a source attribution; nothing is fabricated. Add to this list via PR or Decap CMS (future).",
+  "schema_version": 1,
+  "last_updated": "2026-06-13",
+  "records": [
+    {
+      "id": "gangadeen-1901-trinidad",
+      "names": ["Gangadeen"],
+      "gender": "M",
+      "age_at_sailing": 27,
+      "caste": "AHIR (milk-farming)",
+      "origin": { "village": "Taraon", "district": "Jaunpur", "state": "Uttar Pradesh" },
+      "depot": "Buxar sub-depot → Calcutta",
+      "depot_date": "1901-07-19",
+      "ship": "Virawa",
+      "sailing_date": "1901-08-20",
+      "destination": { "colony": "Trinidad", "arrival_date": "1901-10-17", "estate": "Orange Grove" },
+      "descendants_named": [
+        "Sookraj Gangadeen (son, via Dasrania)",
+        "Sonnylal Gangadeen (grandson)",
+        "Vidya Gangadeen (great-granddaughter)"
+      ],
+      "notes": "Travelled with his first wife Montorani (who died during the journey) and Dasrania, whom he later married. Aboard the Virawa, the first steamship carrying indentured Indians to Trinidad.",
+      "source": {
+        "type": "article",
+        "title": "Story of Vidya Gangadeen",
+        "url": "/articles/story-of-vidya-gangadeen.html",
+        "publisher": "GGLASC"
+      }
+    },
+    {
+      "id": "montorani-1901-trinidad",
+      "names": ["Montorani"],
+      "gender": "F",
+      "age_at_sailing": 23,
+      "caste": "AHIR",
+      "origin": { "village": "Taraon", "district": "Jaunpur", "state": "Uttar Pradesh" },
+      "depot": "Buxar sub-depot → Calcutta",
+      "depot_date": "1901-07-19",
+      "ship": "Virawa",
+      "sailing_date": "1901-08-20",
+      "destination": { "colony": "Trinidad", "arrival_date": "1901-10-17", "estate": null },
+      "descendants_named": [],
+      "notes": "First wife of Gangadeen. Did not survive the journey.",
+      "source": {
+        "type": "article",
+        "title": "Story of Vidya Gangadeen",
+        "url": "/articles/story-of-vidya-gangadeen.html",
+        "publisher": "GGLASC"
+      }
+    },
+    {
+      "id": "dasrania-1901-trinidad",
+      "names": ["Dasrania"],
+      "gender": "F",
+      "age_at_sailing": 23,
+      "caste": "Rajput",
+      "origin": { "village": "Raghonathpur", "district": "Shahabad", "state": "Bihar" },
+      "depot": "Buxar sub-depot → Calcutta",
+      "depot_date": "1901-07-19",
+      "ship": "Virawa",
+      "sailing_date": "1901-08-20",
+      "destination": { "colony": "Trinidad", "arrival_date": "1901-10-17", "estate": "Orange Grove" },
+      "descendants_named": [
+        "Sookraj Gangadeen (son, via Gangadeen)",
+        "Sonnylal Gangadeen (grandson)",
+        "Vidya Gangadeen (great-granddaughter)"
+      ],
+      "notes": "Travelled alongside Gangadeen and Montorani; later married Gangadeen after Montorani's death.",
+      "source": {
+        "type": "article",
+        "title": "Story of Vidya Gangadeen",
+        "url": "/articles/story-of-vidya-gangadeen.html",
+        "publisher": "GGLASC"
+      }
+    },
+    {
+      "id": "hajarie-1902-trinidad",
+      "names": ["Hajarie", "Hazarie"],
+      "gender": "M",
+      "age_at_sailing": 22,
+      "caste": "Brahman",
+      "origin": { "village": "Hinrohpattu", "district": "Damoh", "state": "Madhya Pradesh" },
+      "depot": "Nagpur sub-depot → Calcutta",
+      "depot_date": "1902-08-29",
+      "ship": "AVON",
+      "sailing_date": "1902-09-01",
+      "destination": { "colony": "Trinidad", "arrival_date": "1903-01-12", "estate": "Camden (central Trinidad)" },
+      "descendants_named": [
+        "Rosie Gangadeen (daughter, via Dookie Ramrattan)",
+        "Vidya Gangadeen (granddaughter via Rosie + Sonnylal Gangadeen)"
+      ],
+      "notes": "Father: Pooran. Wife in India: Parowtia, who remained in the village. Hajarie later married Dookie Ramrattan in Trinidad.",
+      "source": {
+        "type": "article",
+        "title": "Story of Vidya Gangadeen",
+        "url": "/articles/story-of-vidya-gangadeen.html",
+        "publisher": "GGLASC"
+      }
+    },
+    {
+      "id": "kishundayalsing-harnandan-singh-1896-suriname",
+      "names": ["Kishundayalsing Harnandan Singh", "Kishundayal Sing"],
+      "gender": "M",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "Bihar" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1896",
+      "destination": { "colony": "Suriname (Dutch Guiana)", "arrival_date": null, "estate": "Saramacca district" },
+      "descendants_named": [
+        "Late Shri Ramdutt Harinandan Singh (son)",
+        "Prof. Dr. Shardhanand Harinandansingh (grandson, b. 1944)",
+        "Pramila H. Singh (granddaughter-in-law)"
+      ],
+      "notes": "Left Bihar in 1896 under the British indenture system. He could never return home. Grandfather of Prof. Dr. Shardhanand Harinandansingh, co-founder of GGLASC and the scholar who coined the term 'Girmitiyalogy' at Lucknow University.",
+      "source": {
+        "type": "article",
+        "title": "Blessings and Reflections",
+        "url": "/articles/blessings-and-reflections.html",
+        "publisher": "GGLASC"
+      }
+    },
+    {
+      "id": "capildeo-1894-trinidad",
+      "names": ["Pundit Capildeo Maharaj", "Capildeo"],
+      "gender": "M",
+      "age_at_sailing": null,
+      "caste": "Brahmin",
+      "origin": { "village": null, "district": null, "state": "Uttar Pradesh (North India)" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1894",
+      "destination": { "colony": "Trinidad", "arrival_date": "1894", "estate": "Chaguanas (central Trinidad)" },
+      "descendants_named": [
+        "Seepersad Naipaul (son-in-law, journalist & writer)",
+        "Sir V. S. Naipaul (grandson, Nobel laureate, b. 1932 in Lion House)",
+        "Savi Naipaul Akal (granddaughter)",
+        "Simbhoonath Capildeo (descendant, politician)",
+        "Capildeo family (Trinidad)"
+      ],
+      "notes": "Arrived in Trinidad in 1894 as an indentured servant. Built the Lion House in Chaguanas in 1920 — the model for Hanuman House in V. S. Naipaul's novel *A House for Mr. Biswas*.",
+      "source": {
+        "type": "encyclopaedia",
+        "title": "V. S. Naipaul — Capildeo family (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Capildeo_family",
+        "publisher": "Wikipedia / Encyclopedia.com"
+      }
+    },
+    {
+      "id": "jagan-grandmother-paternal-1901-british-guiana",
+      "names": ["[Cheddi Jagan's paternal grandmother]"],
+      "gender": "F",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": "Basti", "state": "Uttar Pradesh" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1901",
+      "destination": { "colony": "British Guiana (Guyana)", "arrival_date": "1901", "estate": "Sugar plantation, Berbice county" },
+      "descendants_named": [
+        "Jagan (son, born or arrived as infant)",
+        "Cheddi Bharrat Jagan (grandson, b. 1918, President of Guyana 1992–1997)",
+        "Joey Jagan, Derek Jagan (great-grandchildren)"
+      ],
+      "notes": "Arrived in British Guiana in 1901 under a five-year indenture contract on a sugar plantation in Berbice county. Brought her infant son (Cheddi Jagan's father, Jagan) with her.",
+      "source": {
+        "type": "biography",
+        "title": "Biographical Summary of Dr. Cheddi Jagan",
+        "url": "https://jagan.org/Biography/CJ%20Bio/cj_biography1.html",
+        "publisher": "Cheddi Jagan Research Centre"
+      }
+    },
+    {
+      "id": "jagan-grandmother-maternal-1901-british-guiana",
+      "names": ["[Cheddi Jagan's maternal grandmother]"],
+      "gender": "F",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": "Basti", "state": "Uttar Pradesh" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1901",
+      "destination": { "colony": "British Guiana (Guyana)", "arrival_date": "1901", "estate": "Sugar plantation, Berbice county" },
+      "descendants_named": [
+        "Bachaoni (daughter, Cheddi Jagan's mother)",
+        "Cheddi Bharrat Jagan (grandson, President of Guyana)"
+      ],
+      "notes": "Arrived in British Guiana in 1901 on a five-year contract; brought her infant daughter (Bachaoni, future mother of Cheddi Jagan) with her.",
+      "source": {
+        "type": "biography",
+        "title": "Biographical Summary of Dr. Cheddi Jagan",
+        "url": "https://jagan.org/Biography/CJ%20Bio/cj_biography1.html",
+        "publisher": "Cheddi Jagan Research Centre"
+      }
+    },
+    {
+      "id": "ram-nath-chaudhry-1902-fiji",
+      "names": ["Ram Nath Chaudhry"],
+      "gender": "M",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": "Bahu Jamalpur", "district": null, "state": "Haryana" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1902",
+      "destination": { "colony": "Fiji", "arrival_date": "1902", "estate": "Sugarcane plantation (later, store manager)" },
+      "descendants_named": [
+        "Ram Gopal Chaudhry (son, remained in Fiji)",
+        "Krishan Gopal Chaudhry (son, remained in Fiji)",
+        "Mahendra Pal Chaudhry (grandson, b. 1942, Prime Minister of Fiji 1999–2000)"
+      ],
+      "notes": "On arrival, disputed the plantation contract and was employed as a store manager; later started his own business. Married Ram Kalia in Fiji (d. 22 Sep 1930, age 45). Returned to India.",
+      "source": {
+        "type": "encyclopaedia",
+        "title": "Mahendra Chaudhry (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Mahendra_Chaudhry",
+        "publisher": "Wikipedia / Britannica"
+      }
+    },
+    {
+      "id": "mangre-lal-1908-fiji",
+      "names": ["Mangre Lal"],
+      "gender": "M",
+      "age_at_sailing": 22,
+      "caste": null,
+      "origin": { "village": null, "district": "Bahraich", "state": "Uttar Pradesh" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1908",
+      "destination": { "colony": "Fiji", "arrival_date": "1908", "estate": "Sugarcane plantation (5-year indenture); later own farm" },
+      "descendants_named": [
+        "Brij Vilash Lal (grandson, 1952–2021, historian of Girmit studies, AM FAHA, ANU)"
+      ],
+      "notes": "Left Bahraich in his early twenties under girmit (agreement). Served his 5-year indenture, married, leased land, and farmed. His grandson Brij Lal returned to Bahraich in 1978 as a PhD student.",
+      "source": {
+        "type": "obituary",
+        "title": "Brij Vilash Lal (1952–2021) obituary, Australian Academy of the Humanities",
+        "url": "https://humanities.org.au/wp-content/uploads/2023/12/OBITUARY-BRIJ-LAL-1952-2022.pdf",
+        "publisher": "Australian Academy of the Humanities"
+      }
+    },
+    {
+      "id": "atlas-cohort-1834-mauritius",
+      "names": ["36 Hill 'Coolies' (Dhangars)", "Atlas pioneer cohort"],
+      "gender": "M (mostly)",
+      "age_at_sailing": null,
+      "caste": "Dhangar (Hill peoples of Bihar)",
+      "origin": { "village": null, "district": null, "state": "Bihar (hills) — based in Calcutta at recruitment" },
+      "depot": "Calcutta",
+      "depot_date": "1834-09-10",
+      "ship": "Atlas",
+      "sailing_date": "1834-09 (approx.)",
+      "destination": { "colony": "Mauritius", "arrival_date": "1834-11-02", "estate": "Belle Alliance / Antoinette sugar estates, near Piton village, Rivière du Rempart district" },
+      "descendants_named": [],
+      "notes": "Cohort record. The 36 Hill labourers who signed five-year contracts on 10 September 1834 with George Charles Arbuthnot of Hunter-Arbuthnot & Co., and arrived in Mauritius aboard the Atlas on 2 November 1834 after a six-week voyage. They were the very first indentured Indians under the new system, recorded at what is now the Aapravasi Ghat UNESCO World Heritage Site.",
+      "source": {
+        "type": "history",
+        "title": "Some New Information — 2nd November 1834: The Arrival of the Pioneer Indentured Labourers in Mauritius",
+        "url": "https://www.lemauricien.com/le-mauricien/some-new-information-2nd-november-1834-arrival-pioneer-indentured-labourers-mauritius/135427/",
+        "publisher": "Le Mauricien"
+      }
+    },
+    {
+      "id": "leonidas-cohort-1879-fiji",
+      "names": ["498 Indian indentured labourers (Leonidas)", "Leonidas pioneer cohort"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "North India (recruited via Calcutta)" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": "Leonidas",
+      "sailing_date": "1879-03 (approx.)",
+      "destination": { "colony": "Fiji", "arrival_date": "1879-05-14", "estate": "First plantations near Levuka" },
+      "descendants_named": [],
+      "notes": "Cohort record. The Leonidas disembarked 498 indentured workers at Levuka on 14 May 1879, marking the first of over 61,000 Indians who would arrive in Fiji over the next 37 years under the girmit system.",
+      "source": {
+        "type": "history",
+        "title": "Indian emigration passes to Fiji 1879–1916 — National Library of Australia",
+        "url": "https://www.library.gov.au/research/family-history/family-history-research-guide/indian-emigration-passes-fiji-1879-1916",
+        "publisher": "National Library of Australia"
+      }
+    },
+    {
+      "id": "panday-grandparents-trinidad",
+      "names": ["[Basdeo Panday's grandparents]"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "Uttar Pradesh" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": null,
+      "destination": { "colony": "Trinidad", "arrival_date": null, "estate": null },
+      "descendants_named": [
+        "Basdeo Panday (grandson, 1933–2024, 5th Prime Minister of Trinidad & Tobago, first PM of Indian descent)",
+        "Mickela Panday (great-granddaughter, politician)"
+      ],
+      "notes": "Came to Trinidad from Uttar Pradesh under the indenture system (1845–1920 window). Specific village, year, and ship not yet on record in public sources — partial entry pending family confirmation.",
+      "source": {
+        "type": "encyclopaedia",
+        "title": "Basdeo Panday biographies",
+        "url": "https://en.wikipedia.org/wiki/Basdeo_Panday",
+        "publisher": "Wikipedia / British Hindus / News India Times"
+      }
+    }
+  ]
+}
