@@ -471,6 +471,54 @@
       }
     },
     {
+      "id": "santokhi-greatgrandparents-suriname",
+      "names": ["[Chan Santokhi's great-grandparents — both sides]"],
+      "gender": "M+F (multiple)",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": "Ghazipur, Azamgarh, Chhapra, Mau, Bharatpur", "state": "Uttar Pradesh + Bihar + Rajasthan" },
+      "depot": "Calcutta (Garden Reach)",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "19th century (1873–1916 indenture window)",
+      "destination": { "colony": "Suriname (Dutch Guiana)", "arrival_date": null, "estate": "Sugar plantations of British/Dutch Guiana" },
+      "descendants_named": [
+        "[Father — port worker in Lelydorp]",
+        "[Mother — shop worker]",
+        "Chandrikapersad 'Chan' Santokhi (great-grandson, b. 3 Feb 1959 Lelydorp — youngest of nine, 9th President of Suriname 2020–2025, took oath in Sanskrit)"
+      ],
+      "notes": "An unusually well-documented multi-district lineage. Chan Santokhi has publicly stated that his great-grandparents on both sides came from five distinct Indian districts: Ghazipur and Azamgarh in eastern Uttar Pradesh; Chhapra (Saran district) and Mau in Bihar; and Bharatpur in Rajasthan. They were brought to Suriname as indentured labourers in the 19th century. Santokhi's swearing-in as Suriname's President in Sanskrit (July 2020) was a first.",
+      "source": {
+        "type": "biography",
+        "title": "Chandrikapersad Santokhi (1959–2025)",
+        "url": "https://www.blackpast.org/global-african-history/people-global-african-history/chandrikapersad-santokhi-1959/",
+        "publisher": "BlackPast.org / Indiaspora / Free Press Journal"
+      }
+    },
+    {
+      "id": "kallicharran-ancestors-port-mourant",
+      "names": ["[Alvin Kallicharran's grandparents]"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "Madras Presidency (Tamil region)" },
+      "depot": "Madras",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "late 19th – early 20th c.",
+      "destination": { "colony": "British Guiana (Guyana)", "arrival_date": null, "estate": "Plantation Port Mourant, Berbice (sugarcane)" },
+      "descendants_named": [
+        "Alvin Isaac Kallicharran (grandson, b. 21 Mar 1949, Port Mourant — left-handed West Indies Test batsman 1972–1981, 4 399 Test runs at 44.43, 12 centuries; brother Derek Kallicharran also represented Guyana)"
+      ],
+      "notes": "Tamil-origin Indo-Guyanese family settled at Plantation Port Mourant — the same Berbice estate that produced Cheddi Jagan, Rohan Kanhai, Joe Solomon, Basil Butcher. Indentured arrival from the Madras emigration depot (rather than the more common Calcutta route). Specific village and ship not on public record; partial entry.",
+      "source": {
+        "type": "biography",
+        "title": "Alvin Kallicharran (Wikipedia / Cricket Hall of Fame)",
+        "url": "https://en.wikipedia.org/wiki/Alvin_Kallicharran",
+        "publisher": "Wikipedia / Cricket Hall of Fame"
+      }
+    },
+    {
       "id": "panday-grandparents-trinidad",
       "names": ["[Basdeo Panday's grandparents]"],
       "gender": "M+F",
