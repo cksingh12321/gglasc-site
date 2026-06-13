@@ -125,11 +125,11 @@
     },
     {
       "id": "capildeo-1894-trinidad",
-      "names": ["Pundit Capildeo Maharaj", "Capildeo"],
+      "names": ["Pundit Capildeo Dubey", "Pundit Capildeo Maharaj", "Capildeo"],
       "gender": "M",
       "age_at_sailing": null,
-      "caste": "Brahmin",
-      "origin": { "village": null, "district": null, "state": "Uttar Pradesh (North India)" },
+      "caste": "Brahmin (Dubey)",
+      "origin": { "village": "Mahadeva Dubey", "district": "Gorakhpur (Somra subdivision)", "state": "Uttar Pradesh" },
       "depot": "Calcutta",
       "depot_date": null,
       "ship": null,
@@ -958,6 +958,57 @@
         "title": "Searching through the fog of history, this man helps Trinidad families trace their Indian roots",
         "url": "https://scroll.in/magazine/864273/searching-through-the-fog-of-history-this-man-helps-trinidad-families-trace-their-indian-roots",
         "publisher": "Scroll.in"
+      }
+    },
+    {
+      "id": "ramadhin-grandparents-st-charles",
+      "names": ["[Sonny Ramadhin's grandparents]"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "Bhojpuri belt — Bihar / Uttar Pradesh" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "late 19th – early 20th c.",
+      "destination": { "colony": "Trinidad", "arrival_date": null, "estate": "St Charles village (15 miles south of Port of Spain); family later in Esperance" },
+      "descendants_named": [
+        "[Sonny Ramadhin's parents — died when he was 2]",
+        "'Uncle Rock' (raised the orphaned Sonny in Esperance, southern Trinidad)",
+        "Sonny Ramadhin (grandson, 1 May 1929 – 27 Feb 2022 — first Indian-origin player ever to be selected for the West Indies cricket team. Right-arm spinner; central figure in the West Indies' historic first Test series win in England in 1950 (the year Lord Kitchener's 'Cricket, Lovely Cricket' celebrated 'those little pals of mine, Ramadhin and Valentine'). 43 Tests, 158 wickets at 28.98)"
+      ],
+      "notes": "Indo-Trinidadian family of indentured descent. Both of Sonny's parents died when he was 2; he was raised by his Uncle Rock in Esperance. Sonny went on to become the first cricketer of East Indian ethnicity to play for the West Indies — a milestone for Indo-Caribbean representation in international cricket.",
+      "source": {
+        "type": "biography",
+        "title": "Sonny Ramadhin (Wikipedia / BBC / Global Voices)",
+        "url": "https://en.wikipedia.org/wiki/Sonny_Ramadhin",
+        "publisher": "Wikipedia / BBC Sport / Global Voices / The Week"
+      }
+    },
+    {
+      "id": "sundar-popo-grandparents-barrackpore",
+      "names": ["[Sundar Popo's 'Nana and Nani' — his Girmitiya grandparents]"],
+      "gender": "M+F (couple)",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "Bhojpuri belt — Bihar / Uttar Pradesh" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1845–1917 (Trinidad indenture window)",
+      "destination": { "colony": "Trinidad", "arrival_date": null, "estate": "Settled at Barrackpore, southern Trinidad" },
+      "descendants_named": [
+        "[Sundar Popo's father — accomplished tassa drummer]",
+        "[Sundar Popo's mother — singer]",
+        "Sundarlal Popo Bahora ('Sundar Popo', grandson, 4 Nov 1943 – 2 May 2000, Barrackpore — Father of Chutney Music; his 1969 hit *Nana and Nani*, which immortalised his Girmitiya grandparents' drinking habits, is the foundational record of the chutney genre and indirectly inspired Lord Kitchener and chutney-soca artists)",
+        "Chandra Sundar (granddaughter — continuing the singing tradition)"
+      ],
+      "notes": "An entire musical genre, *chutney*, was founded on the memory of these unnamed grandparents. Sundar Popo's 1969 song *Nana and Nani* — about a Girmitiya couple's drinking habits — became the foundational record of Indo-Caribbean chutney music, fusing Bhojpuri folk with Caribbean rhythms. Their grandson is honoured by the Sundarlal Popo Bahora Auditorium at the Southern Academy for the Performing Arts in San Fernando, Trinidad.",
+      "source": {
+        "type": "biography",
+        "title": "Sundar Popo (Wikipedia / EasternEye / Better India)",
+        "url": "https://en.wikipedia.org/wiki/Sundar_Popo",
+        "publisher": "Wikipedia / EasternEye / Better India / Scroll.in"
       }
     },
     {
