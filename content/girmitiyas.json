@@ -1060,6 +1060,331 @@
       }
     },
     {
+      "id": "uteem-ancestors-azamgarh-mauritius",
+      "names": ["[Cassam Uteem's ancestors]"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": "Muslim (Indo-Mauritian)",
+      "origin": { "village": null, "district": "Azamgarh", "state": "Uttar Pradesh" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "19th century",
+      "destination": { "colony": "Mauritius", "arrival_date": null, "estate": "Port Louis area sugar plantations" },
+      "descendants_named": [
+        "Cassam Uteem (great-grandson, b. 22 Mar 1941 Port Louis — 2nd President of the Republic of Mauritius 1992–2002; resigned in protest over a controversial anti-terrorism bill in 2002)",
+        "Muhammad Uteem (descendant — politician)",
+        "Reza Uteem (descendant — politician)"
+      ],
+      "notes": "Indo-Muslim Mauritian lineage tracing back to Azamgarh in eastern UP — a major source-district for Muslim indentured labourers to Mauritius. Cassam Uteem rose from Port Louis trade-union organising to the Mauritian presidency, becoming one of the longest-serving heads of state in independent Mauritius.",
+      "source": {
+        "type": "encyclopaedia",
+        "title": "Cassam Uteem (Wikipedia / Club de Madrid)",
+        "url": "https://en.wikipedia.org/wiki/Cassam_Uteem",
+        "publisher": "Wikipedia / Club de Madrid / Global Leadership Foundation"
+      }
+    },
+    {
+      "id": "ringadoo-ancestors-tamil-mauritius",
+      "names": ["[Sir Veerasamy Ringadoo's ancestors]"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": "Tamil",
+      "origin": { "village": null, "district": null, "state": "Madras Presidency (Tamil region)" },
+      "depot": "Madras",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "19th century",
+      "destination": { "colony": "Mauritius", "arrival_date": null, "estate": "Mauritian sugar plantations" },
+      "descendants_named": [
+        "Sir Veerasamy Ringadoo GCMG GCSK QC (great-grandson, 20 Jan 1920 – 5 Aug 2000 — 6th and last Governor-General of Mauritius 1986–92, and first President of the Republic of Mauritius March–June 1992; founder of the League of Tamils 1937; LSE LLB 1948)"
+      ],
+      "notes": "Tamil-Mauritian indenture lineage. Veerasamy Ringadoo rose from a Tamil indentured family to become the first President of independent republican Mauritius (briefly, in 1992, before being succeeded by Cassam Uteem). He had earlier been Governor-General. Founded the League of Tamils in 1937 — a key civic body for the Tamil community in Mauritius.",
+      "source": {
+        "type": "biography",
+        "title": "Veerasamy Ringadoo (Wikipedia / LSE Centenary)",
+        "url": "https://en.wikipedia.org/wiki/Veerasamy_Ringadoo",
+        "publisher": "Wikipedia / LSE Law Centenary / ACE Archive"
+      }
+    },
+    {
+      "id": "mac-maharaj-family-newcastle-natal",
+      "names": ["[NR Maharaj — Mac Maharaj's father]", "[Mac Maharaj's grandfather — the Girmitiya ancestor]"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "North India (later: South African Indian community)" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "between 1860 and 1911 (Natal indenture window)",
+      "destination": { "colony": "Natal, South Africa", "arrival_date": null, "estate": "Newcastle, northern Natal — coal-mining and sugar district" },
+      "descendants_named": [
+        "Mr & Mrs NR Maharaj (parents of Mac Maharaj)",
+        "Satyandranath 'Mac' Maharaj (grandson/great-grandson, b. 22 Apr 1935 Newcastle — fourth of eight children. ANC stalwart and Operation Vula architect; first post-apartheid Minister of Transport 1994–99; presidential spokesperson under Jacob Zuma)"
+      ],
+      "notes": "Indo-South African family of indentured origin settled at Newcastle in northern Natal — a region built on Indian labour in the coal mines and sugarcane estates of the Anglo-Boer era. Mac Maharaj became one of the most consequential anti-apartheid figures of his generation, jailed on Robben Island and later running the underground Operation Vula network inside South Africa from 1987–90.",
+      "source": {
+        "type": "biography",
+        "title": "Mac Maharaj — South African History Online / Wikipedia",
+        "url": "https://sahistory.org.za/people/satyandranath-mac-maharaj",
+        "publisher": "SAHistory.org.za / Wikipedia"
+      }
+    },
+    {
+      "id": "ramsewak-shankar-family-suriname",
+      "names": ["[Ramsewak Shankar's grandparents]"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "Bhojpuri belt — Bihar / Uttar Pradesh" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1873–1916 (Suriname Hindostani indenture window)",
+      "destination": { "colony": "Suriname (Dutch Guiana)", "arrival_date": null, "estate": "Suriname sugar / rice / banana plantations" },
+      "descendants_named": [
+        "Ramsewak Shankar (grandson, b. 6 Nov 1937 — Hindostani-Surinamese; Minister of Agriculture & Fisheries 1969–71; 4th President of Suriname 25 Jan 1988 – 24 Dec 1990, ending nearly 8 years of military rule; overthrown by Bouterse's bloodless coup of December 1990)"
+      ],
+      "notes": "Hindostani-Surinamese family of indentured descent. Ramsewak Shankar was sworn in as the 4th President of Suriname on 25 January 1988, restoring civilian rule after years of military government. His presidency was cut short by Dési Bouterse's bloodless 'telephone coup' on Christmas Eve 1990.",
+      "source": {
+        "type": "encyclopaedia",
+        "title": "Ramsewak Shankar (Wikipedia / Prabook)",
+        "url": "https://en.wikipedia.org/wiki/Ramsewak_Shankar",
+        "publisher": "Wikipedia / UPI Archives"
+      }
+    },
+    {
+      "id": "sagan-maraj-trinidad",
+      "names": ["Sagan Maraj (Bhadase Sagan Maraj's father)"],
+      "gender": "M",
+      "age_at_sailing": null,
+      "caste": "Hindu (Maraj)",
+      "origin": { "village": null, "district": null, "state": "Bihar / Uttar Pradesh" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "late 19th – early 20th c.",
+      "destination": { "colony": "Trinidad", "arrival_date": null, "estate": "Caroni county sugar plantations" },
+      "descendants_named": [
+        "Bhadase Sagan Maraj (son, 1920–1971 — founder of the Sanatan Dharma Maha Sabha in 1952 — the largest Hindu organisation in Trinidad & Tobago; founder of the People's Democratic Party; built or rebuilt hundreds of Hindu temples)"
+      ],
+      "notes": "Stepped off an indentured-labourers' boat in Trinidad. Described in the family record as a 'six-footer, strong, handsome and fearless'. Tragically murdered while reading the Bhagavad Gita when his son Bhadase was 13 (c. 1933); his brother (Bhadase's uncle) was later tied to a stone and drowned in the Caroni River. These two killings shaped the militant determination with which Bhadase later organised Hindu Trinidad.",
+      "source": {
+        "type": "biography",
+        "title": "Bhadase Sagan Maraj — biography (Caribbean History Archives / Hinduism Today)",
+        "url": "https://www.hinduismtoday.com/hpi/2026/05/27/the-man-who-saved-hinduism-in-trinidad/",
+        "publisher": "Hinduism Today / Caribbean History Archives / Trinidad Guardian"
+      }
+    },
+    {
+      "id": "lakshmi-persaud-ancestors-tunapuna",
+      "names": ["[Lakshmi Persaud's forefathers]"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": "Hindu",
+      "origin": { "village": null, "district": null, "state": "Uttar Pradesh" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1890s",
+      "destination": { "colony": "Trinidad", "arrival_date": "1890s", "estate": "Streatham Lodge (later Pasea Village), rural Tunapuna" },
+      "descendants_named": [
+        "Lakshmi Persaud (great-granddaughter, 20 Sep 1937 Streatham Lodge / Pasea Village – 14 Jan 2024 London — Trinidadian-British novelist, author of *Butterfly in the Wind* (1990), *Sastra* (1993), *For the Love of My Name* (2000), *Raise the Lanterns High* (2004), *Daughters of Empire* (2012). Her novels explore the orthodox-Hindu girlhood the Girmitiya descendants carried forward in Trinidad)",
+        "Dr Bishnodat Persaud (husband, predeceased 2016)"
+      ],
+      "notes": "Hindus from Uttar Pradesh who migrated in the 1890s to Trinidad's central sugar belt. Their great-granddaughter Lakshmi Persaud's five novels are some of the most important literary documents of the inner life of Indo-Trinidadian Hindu women across the indenture and post-indenture generations.",
+      "source": {
+        "type": "biography",
+        "title": "Lakshmi Persaud (Wikipedia / Journal of West Indian Literature)",
+        "url": "https://en.wikipedia.org/wiki/Lakshmi_Persaud",
+        "publisher": "Wikipedia / JWIL / Small Axe Project"
+      }
+    },
+    {
+      "id": "donald-ramotar-family-caria-caria",
+      "names": ["[Donald Ramotar's grandparents]"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "Bhojpuri belt — Bihar / Uttar Pradesh" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "late 19th – early 20th c.",
+      "destination": { "colony": "British Guiana (Guyana)", "arrival_date": null, "estate": "Caria Caria, Berbice region (sugar / agricultural)" },
+      "descendants_named": [
+        "Donald Rabindranauth Ramotar (grandson, b. 22 Oct 1950 Caria Caria — 8th President of Guyana 11 Dec 2011 – 16 May 2015; General Secretary of the People's Progressive Party 1997–2013, succeeding the line of leaders that began with Cheddi Jagan)",
+        "Deolatchmee Ramotar (wife — First Lady of Guyana 2011–2015)"
+      ],
+      "notes": "Indo-Guyanese family from the indenture-descent agricultural community of the Berbice river region. Donald Ramotar's path from welder (Government Technical Institute) to General Secretary of the PPP and ultimately the Guyanese presidency closely mirrors the Cheddi Jagan generational arc.",
+      "source": {
+        "type": "biography",
+        "title": "Donald Ramotar (Wikipedia / Britannica / Guyana Chronicle)",
+        "url": "https://en.wikipedia.org/wiki/Donald_Ramotar",
+        "publisher": "Wikipedia / Britannica / Guyana Chronicle"
+      }
+    },
+    {
+      "id": "bechu-1898-british-guiana",
+      "names": ["Bechu"],
+      "gender": "M",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "North India" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "pre-1898",
+      "destination": { "colony": "British Guiana (Guyana)", "arrival_date": null, "estate": "Plantation Enmore (East Coast Demerara) and others" },
+      "descendants_named": [],
+      "notes": "One of the most consequential dissident voices of the indenture era. Bechu was an indentured Indian who, in 1898, was tried for libel after writing to the *Daily Chronicle* of Georgetown blaming plantation managers for the death of a fellow indentured worker named **Bhagri**. His letters and testimony to the West India Royal Commission (1897) opened up colonial Britain's scrutiny of plantation abuses and inspired later anti-indenture campaigners. Clem Seecharan's later study restored Bechu to historical prominence.",
+      "source": {
+        "type": "history",
+        "title": "Critiques: Clem Seecharan on Bechu, Indian who Exposed Abuses of Indentureship",
+        "url": "https://icdn.today/critiques-clem-seecharan-on-bechu-indian-who-exposed-abuses-of-indentureship/",
+        "publisher": "Indo-Caribbean Diaspora News / Royal Historical Society / Gale Review"
+      }
+    },
+    {
+      "id": "bhagri-1898-british-guiana",
+      "names": ["Bhagri"],
+      "gender": "M",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "North India" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "pre-1898",
+      "destination": { "colony": "British Guiana (Guyana)", "arrival_date": null, "estate": "Plantation Enmore-area sugar estate" },
+      "descendants_named": [],
+      "notes": "An indentured Indian labourer whose death on a sugar plantation in British Guiana was attributed by Bechu to the negligence and brutality of plantation management. The 1898 libel case against Bechu over Bhagri's death became one of the most public exposures of the indenture system's violence. Bhagri is one of the few indentured victims whose name was specifically recorded in the colonial press.",
+      "source": {
+        "type": "history",
+        "title": "Bechu — Indian Who Exposed Abuses of Indentureship (Clem Seecharan)",
+        "url": "https://icdn.today/critiques-clem-seecharan-on-bechu-indian-who-exposed-abuses-of-indentureship/",
+        "publisher": "Royal Historical Society / Gale Review"
+      }
+    },
+    {
+      "id": "munshi-rahman-khan-suriname",
+      "names": ["Munshi Rahman Khan", "Munshiji"],
+      "gender": "M",
+      "age_at_sailing": null,
+      "caste": "Pathan (Pashtun, Muslim)",
+      "origin": { "village": null, "district": "Hamirpur / Mahoba (Bundelkhand)", "state": "Uttar Pradesh" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1898",
+      "destination": { "colony": "Suriname (Dutch Guiana)", "arrival_date": "1898", "estate": "Suriname sugar / rice plantations" },
+      "descendants_named": [],
+      "notes": "Author of one of the most important first-person Girmitiya documents in any language: **Jeevan Prakash** — the autobiography of an indentured labourer, written in Hindi (Devanagari) in colonial Suriname and later translated into English as *Autobiography of an Indian Indentured Labourer*. Family had migrated from Afghanistan to Bundelkhand (UP) generations earlier; he was recruited into the Suriname indenture in 1898. A schoolteacher, poet, and community leader in his post-indenture life, he wrote richly detailed memoirs that remain a primary source for Hindostani Suriname history.",
+      "source": {
+        "type": "primary-source",
+        "title": "Munshi Rahman Khan — *Autobiography of an Indian Indentured Labourer* (Jeevan Prakash)",
+        "url": "https://books.google.com/books/about/Autobiography_of_an_Indian_Indentured_La.html?id=cDJ9AAAAMAAJ",
+        "publisher": "Shipra Publications / Caribbean Muslims / Google Books"
+      }
+    },
+    {
+      "id": "sujaria-1903-british-guiana",
+      "names": ["Sujaria"],
+      "gender": "F",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "Bihar" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1903",
+      "destination": { "colony": "British Guiana (Guyana)", "arrival_date": "1903", "estate": "Sugar plantations of British Guiana" },
+      "descendants_named": [
+        "Gaiutra Bahadur (great-granddaughter — Indo-Guyanese-American journalist; author of *Coolie Woman: The Odyssey of Indenture* (2013) which won the Gordon K. and Sybil Lewis Prize and was a finalist for the 2014 Orwell Prize — the book that rescued an estimated 250,000 indentured women from historical anonymity)"
+      ],
+      "notes": "Sailed from Calcutta to British Guiana in 1903 as an indentured plantation labourer — pregnant and travelling alone, like many of the ~250,000 'coolie women' shipped from India between 1838 and 1917. Her great-granddaughter Gaiutra Bahadur traversed three continents and trawled colonial archives to reconstruct her story; the resulting book made Sujaria a touchstone for the rediscovery of women in the indenture record.",
+      "source": {
+        "type": "book",
+        "title": "Coolie Woman: The Odyssey of Indenture",
+        "url": "https://cooliewoman.com/",
+        "publisher": "Gaiutra Bahadur (University of Chicago Press, 2013) / Wikipedia / NPR"
+      }
+    },
+    {
+      "id": "dabydeen-ancestors-canje-berbice",
+      "names": ["[David Dabydeen's ancestors]"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "North India" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1838–1917 (British Guiana indenture window)",
+      "destination": { "colony": "British Guiana (Guyana)", "arrival_date": null, "estate": "Canje area, Berbice (sugar)" },
+      "descendants_named": [
+        "Krishna Prasad Dabydeen (father)",
+        "Vera Dabydeen (mother)",
+        "David Dabydeen (great-grandson, b. 9 Dec 1956 Berbice — Professor at the University of Warwick; poet and novelist, author of *Slave Song* (1984), *Coolie Odyssey* (1988), *The Counting House* (1996) and many others. Major prizewinning poet of the Indo-Caribbean diaspora)",
+        "Cyril Dabydeen (cousin — also Indo-Guyanese-Canadian poet and novelist, native of the same Canje area)"
+      ],
+      "notes": "Indentured family of the Canje sugar belt in Berbice — the same region as the Jagans, Kanhais, Solomons and Kallicharrans. David Dabydeen's poetry collection *Coolie Odyssey* (1988) is one of the foundational literary works on the indenture-to-Britain trajectory; his title alone became a vocabulary for Indo-Caribbean self-naming.",
+      "source": {
+        "type": "biography",
+        "title": "David Dabydeen (Wikipedia / Peepal Tree Press / Encyclopedia.com)",
+        "url": "https://www.peepaltreepress.com/authors/david-dabydeen",
+        "publisher": "Peepal Tree Press / Wikipedia / Encyclopedia.com / Caribbean Beat"
+      }
+    },
+    {
+      "id": "mahadai-das-ancestors-eccles",
+      "names": ["[Mahadai Das's ancestors — indentured rice-farmer]"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "Eastern Uttar Pradesh + Bihar (United Provinces)" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1838–1917 (BG indenture window)",
+      "destination": { "colony": "British Guiana (Guyana)", "arrival_date": null, "estate": "Eccles, East Bank Demerara (rice farming after indenture)" },
+      "descendants_named": [
+        "Tilokee Das (father)",
+        "Mahadai Das (great-granddaughter, 1954–2003 Eccles — major Indo-Guyanese poet of the indenture diaspora; her first collection *I Want to be a Poetess of My People* (1977) traced the Guyanese journey from indentureship to independence; her poem *They Came in Ships* is the ancestor-poem of Indo-Guyanese literature)"
+      ],
+      "notes": "Indentured rice-farming family who settled at Eccles on the East Bank of the Demerara River. Mahadai Das became one of the most important poets of the entire Indian Labour Diaspora — alongside David Dabydeen, the architect of the Indo-Caribbean voice in English-language poetry. Her early death in 2003 cut short an exceptional body of work.",
+      "source": {
+        "type": "biography",
+        "title": "Mahadai Das (Wikipedia / Peepal Tree Press)",
+        "url": "https://en.wikipedia.org/wiki/Mahadai_Das",
+        "publisher": "Wikipedia / Peepal Tree Press / Jacket2"
+      }
+    },
+    {
+      "id": "subramani-father-labasa-fiji",
+      "names": ["[Subramani's father]"],
+      "gender": "M",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "North India" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1879–1916 (Fiji indenture window)",
+      "destination": { "colony": "Fiji", "arrival_date": null, "estate": "Labasa region, Vanua Levu — sugarcane (Batinikama, near the Qawa River sugar mill)" },
+      "descendants_named": [
+        "Subramani (son, b. 20 Jun 1943 Labasa — leading Indo-Fijian writer; Professor at the University of the South Pacific; author of the celebrated Fiji-Hindi novel *Dauka Puran* (2003) and other works that voice the subaltern indentured Indians of Fiji)"
+      ],
+      "notes": "Came to Fiji as an indentured labourer at some point in the 1879–1916 girmit window and settled in the Labasa region of Vanua Levu. His son Subramani would become the leading literary voice of Indo-Fijians, writing in Fiji Hindi — the unique creolised idiom that grew on Fiji's plantations — to recover the inner life of indentured Indians and their descendants. *Dauka Puran*, his masterpiece, was honoured at the 7th World Hindi Conference (Suriname, 2003).",
+      "source": {
+        "type": "biography",
+        "title": "Subramani (Literary Encyclopedia / Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Subramani",
+        "publisher": "Literary Encyclopedia / Wikipedia / Cambridge University Press"
+      }
+    },
+    {
       "id": "panday-grandparents-trinidad",
       "names": ["[Basdeo Panday's grandparents]"],
       "gender": "M+F",
