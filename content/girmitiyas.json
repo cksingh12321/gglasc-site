@@ -584,6 +584,171 @@
       }
     },
     {
+      "id": "chanderpaul-ancestors-unity-village",
+      "names": ["[Shivnarine Chanderpaul's ancestors]"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "Bhojpuri-speaking belt of Bihar / Uttar Pradesh (possibly Madras Presidency for parallel lines)" },
+      "depot": "Calcutta (possibly also Madras)",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1838–1928 (British Guiana indenture window)",
+      "destination": { "colony": "British Guiana (Guyana)", "arrival_date": null, "estate": "Unity Village, Demerara region (fishing/farming after indenture)" },
+      "descendants_named": [
+        "Kamraj Chanderpaul (father, fisherman at Unity Village)",
+        "Uma Chanderpaul (mother)",
+        "Shivnarine Chanderpaul (grandson, b. 16 Aug 1974 — West Indies Test cricketer 1994–2015, captain, second-highest Test run-scorer for WI; 11 867 Test runs at 51.37, 30 centuries)",
+        "Tagenarine Chanderpaul (great-grandson, also Test cricketer for West Indies)"
+      ],
+      "notes": "Indo-Guyanese family settled at Unity Village in the Demerara region, three generations after Indian indentured arrival in British Guiana (1838–1928). Father Kamraj was a fisherman who nurtured Shivnarine's cricket from a young age. Shivnarine is one of the most celebrated Test batsmen in West Indies history.",
+      "source": {
+        "type": "biography",
+        "title": "Shivnarine Chanderpaul (Wikipedia / Global Indian)",
+        "url": "https://en.wikipedia.org/wiki/Shivnarine_Chanderpaul",
+        "publisher": "Wikipedia / Global Indian / Cricinfo"
+      }
+    },
+    {
+      "id": "appanah-grandparents-mauritius",
+      "names": ["[Nathacha Appanah's grandparents]"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "Andhra (Telugu-speaking region) — French/British India" },
+      "depot": "Madras (likely)",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "19th century",
+      "destination": { "colony": "Mauritius", "arrival_date": null, "estate": "Sugar plantations near Mahébourg, south-eastern Mauritius" },
+      "descendants_named": [
+        "Nathacha Devi Pathareddy Appanah (granddaughter, b. 24 May 1973 Mahébourg — Mauritian-French novelist; winner of Goncourt Choice of India 2026 for *La Nuit au cœur*; author of *Les Rochers de Poudre d'Or* (2003) — the indentured-arrival novel — and *La Mémoire délavée* (2023), the memoir of her own grandparents)"
+      ],
+      "notes": "Telugu-speaking indentured family settled in south-eastern Mauritius. Their granddaughter Nathacha Appanah has made her grandparents' story the spine of two of her books — *Les Rochers de Poudre d'Or* (2003, winner of the Prix RFO du livre) is a fictional account of the indentured Indian arrival in Mauritius, and *La Mémoire délavée* (2023) is a more personal memoir of the grandparents themselves.",
+      "source": {
+        "type": "biography",
+        "title": "Nathacha Appanah (Wikipedia / France Diplomatie)",
+        "url": "https://en.wikipedia.org/wiki/Nathacha_Appanah",
+        "publisher": "Wikipedia / France in India / Telangana Today"
+      }
+    },
+    {
+      "id": "bissoondoyal-ancestors-tyack-mauritius",
+      "names": ["[Bissoondoyal brothers' ancestors]"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "Bihar / Uttar Pradesh (Bhojpuri belt)" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "19th century",
+      "destination": { "colony": "Mauritius", "arrival_date": null, "estate": "Sugar plantations near Tyack, Rivière des Anguilles (southern Mauritius)" },
+      "descendants_named": [
+        "Basdeo Bissoondoyal (grandson, 1906–1991 — Mauritian social worker, educator, and writer, central figure in the pre-independence movement; established Bhojpuri-medium primary schools)",
+        "Sookdeo Bissoondoyal (grandson, 1908–1977 — Mauritian politician; Independent Forward Bloc; co-architect of Mauritian independence)",
+        "Soogrim Bissoondoyal (grandson, third brother)"
+      ],
+      "notes": "Indentured family settled at Tyack in Rivière des Anguilles district, southern Mauritius. The three brothers — Basdeo, Sookdeo, Soogrim — became the intellectual and political backbone of the Mauritian independence movement alongside Sir Seewoosagur Ramgoolam.",
+      "source": {
+        "type": "encyclopaedia",
+        "title": "Sookdeo Bissoondoyal / Basdeo Bissoondoyal (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Sookdeo_Bissoondoyal",
+        "publisher": "Wikipedia"
+      }
+    },
+    {
+      "id": "pravind-jugnauth-ancestor-rasra-ballia",
+      "names": ["[Pravind Jugnauth's ancestor — refined location]"],
+      "gender": "M",
+      "age_at_sailing": null,
+      "caste": "Ahir / Yadav",
+      "origin": { "village": "Rasra area (specific village still being pinpointed by Indian diplomats and family)", "district": "Ballia", "state": "Uttar Pradesh" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "19th century (mid-to-late)",
+      "destination": { "colony": "Mauritius", "arrival_date": null, "estate": "Palma village area, central Mauritius" },
+      "descendants_named": [
+        "Sir Anerood Jugnauth (great-grandson, 1930–2021, 6th President & longest-serving PM of Mauritius)",
+        "Pravind Kumar Jugnauth (great-great-grandson, b. 25 Dec 1961, PM of Mauritius 2017–2024)"
+      ],
+      "notes": "Refines the earlier Jugnauth entry. After Pravind Jugnauth took office, Indian diplomats traced the family's roots to the **Rasra subdivision of Ballia district** in eastern Uttar Pradesh — a Bhojpuri-speaking region that sent thousands of indentured workers to Mauritius. Ballia celebrated his swearing-in as PM in November 2019 as the elevation of a 'native son'.",
+      "source": {
+        "type": "news",
+        "title": "Buzz in Ballia as 'native' Jugnauth becomes Mauritius PM — Business Standard",
+        "url": "https://www.business-standard.com/article/pti-stories/buzz-in-ballia-as-native-jugnauth-becomes-mauritius-pm-119111400987_1.html",
+        "publisher": "Business Standard / PTI"
+      }
+    },
+    {
+      "id": "joe-solomon-ancestors-port-mourant",
+      "names": ["[Joe Solomon's ancestors]"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "North India (later converted to Christianity via Canadian Presbyterian Mission in British Guiana)" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "late 19th c.",
+      "destination": { "colony": "British Guiana (Guyana)", "arrival_date": null, "estate": "Plantation Port Mourant, Corentyne, Berbice" },
+      "descendants_named": [
+        "Joseph Stanislaus 'Joe' Solomon (grandson, 24 Aug 1930 – 8 Dec 2023, Port Mourant — West Indies Test cricketer 1958–65, 27 Tests, 1 326 runs. Famously effected the run-out that produced the first **Tied Test** in cricket history at Brisbane on 14 Dec 1960)"
+      ],
+      "notes": "Christian Indo-Guyanese family of indentured descent, settled at Plantation Port Mourant in the Corentyne, Berbice. Port Mourant produced an extraordinary cluster of West Indies Test cricketers — John Trim, Rohan Kanhai, Basil Butcher, Joe Solomon, Ivan Madray, Alvin Kallicharran — from a single sugar plantation's labour-force descendants.",
+      "source": {
+        "type": "biography",
+        "title": "Joe Solomon — Wikipedia / Stabroek News obituary",
+        "url": "https://en.wikipedia.org/wiki/Joe_Solomon",
+        "publisher": "Wikipedia / Stabroek News / Cricinfo"
+      }
+    },
+    {
+      "id": "sahadeo-tiwari-1912-trinidad",
+      "names": ["Sahadeo Tiwari", "Pandit Sahadeo Tiwari"],
+      "gender": "M",
+      "age_at_sailing": 19,
+      "caste": "Brahmin (Tiwari)",
+      "origin": { "village": null, "district": "Chhapra (Saran)", "state": "Bihar" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1912",
+      "destination": { "colony": "Trinidad", "arrival_date": "1912", "estate": "Trinidad sugar plantations (later, Hindu pundit)" },
+      "descendants_named": [],
+      "notes": "Born 25 February 1893 in Chhapra (Saran district), Bihar — arrived Trinidad as an indentured labourer in 1912. Tiwari is documented as one of the Hindu pundits in the Indo-Trinidadian community who came through the indenture system. His name is recorded in Wikipedia and the Hinduism Today survey of Trinidadian pundit lineages.",
+      "source": {
+        "type": "biography",
+        "title": "Sahadeo Tiwari (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Sahadeo_Tiwari",
+        "publisher": "Wikipedia / Hinduism Today"
+      }
+    },
+    {
+      "id": "ram-lakhan-mishra-1889-trinidad",
+      "names": ["Pandit Ram Lakhan Mishra"],
+      "gender": "M",
+      "age_at_sailing": null,
+      "caste": "Brahmin (Mishra)",
+      "origin": { "village": "Bhelupur", "district": "Buxar", "state": "Bihar" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1889",
+      "destination": { "colony": "Trinidad", "arrival_date": "1889", "estate": "Trinidad sugar plantations" },
+      "descendants_named": [
+        "Kamla Persad-Bissessar (great-granddaughter, b. 22 Apr 1952 — 7th Prime Minister of Trinidad & Tobago (2010–2015, re-elected 2025), first woman to hold the post; called 'Bihar Ki Beti' (Daughter of Bihar) by PM Narendra Modi)"
+      ],
+      "notes": "Left Bhelupur village in Buxar district, Bihar, in 1889 and arrived in Trinidad as an indentured labourer. In 2012, his great-granddaughter Kamla Persad-Bissessar — then PM of Trinidad & Tobago — returned to Bhelupur, reconnecting with the village 123 years after her ancestor's departure.",
+      "source": {
+        "type": "biography",
+        "title": "Kamla Persad-Bissessar — ancestral village Bhelupur (multiple)",
+        "url": "https://www.globalindian.com/story/cover-story/kamla-persad-bissessar-indentured-labourers-great-granddaughter-becomes-trinidad-and-tobago-pm-second-time/",
+        "publisher": "Global Indian / Business Today / Deccan Herald"
+      }
+    },
+    {
       "id": "panday-grandparents-trinidad",
       "names": ["[Basdeo Panday's grandparents]"],
       "gender": "M+F",
