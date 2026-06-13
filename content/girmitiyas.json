@@ -1012,6 +1012,54 @@
       }
     },
     {
+      "id": "bayanna-1903-fiji-elbe-iii",
+      "names": ["Bayanna"],
+      "gender": "M",
+      "age_at_sailing": null,
+      "caste": "Kamma (warrior / kshatriya caste)",
+      "origin": { "village": "Kalicherla", "district": "Madanapalle, Cuddapah (now Kadapa)", "state": "Madras Presidency (now Andhra Pradesh)" },
+      "depot": "Madras",
+      "depot_date": null,
+      "ship": "Elbe III",
+      "sailing_date": "1903",
+      "destination": { "colony": "Fiji", "arrival_date": "1903", "estate": "Sugarcane plantations" },
+      "descendants_named": [
+        "Pethi Reddy (son)",
+        "Jai Ram Reddy (grandson, b. 12 May 1937 Lautoka — eldest of 5 — Leader of the National Federation Party; Leader of the Official Opposition of Fiji 1977–83 and 1992–99; President of the Fiji Court of Appeal 2000, 2002–03)"
+      ],
+      "notes": "Bayanna was aboard the **Elbe III** in 1903 — the ship that brought the **first full consignment of indentured labourers from South India to Fiji**. A Kamma cultivator/warrior caste family from Kalicherla village in the Madanapalle subdivision of Cuddapah district (now Andhra Pradesh's Kadapa district). His grandson Jai Ram Reddy became one of the dominant Indo-Fijian political figures of the late 20th century. The Telugu-speaking Reddy/Kamma lines in Fiji are a small but historically important southern thread alongside the dominant Bhojpuri/Bihari migration.",
+      "source": {
+        "type": "biography",
+        "title": "Jai Ram Reddy (Wikipedia / Kammas World / Indian Newslink)",
+        "url": "https://en.wikipedia.org/wiki/Jai_Ram_Reddy",
+        "publisher": "Wikipedia / Kammasworld / Indian Newslink / RNZ"
+      }
+    },
+    {
+      "id": "iyyappa-reddy-1903-fiji-elbe-iii",
+      "names": ["Iyyappa Reddy"],
+      "gender": "M",
+      "age_at_sailing": null,
+      "caste": "Reddi (cultivators)",
+      "origin": { "village": null, "district": "North Arcot", "state": "Madras Presidency (now spans Tamil Nadu / Andhra Pradesh)" },
+      "depot": "Madras",
+      "depot_date": null,
+      "ship": "Elbe III",
+      "sailing_date": "1903",
+      "destination": { "colony": "Fiji", "arrival_date": "1903", "estate": "Sugarcane plantations" },
+      "descendants_named": [
+        "Yenkatamma Reddy (daughter; wife of Pethi Reddy)",
+        "Jai Ram Reddy (grandson via Yenkatamma — Fiji Opposition Leader & Court of Appeal President)"
+      ],
+      "notes": "On the same 1903 voyage of the Elbe III as Bayanna (the future Jai Ram Reddy's other grandfather). Iyyappa Reddy came from North Arcot district in the Madras Presidency, from the Reddi cultivator caste — village leaders in their home community. The Reddy/Reddi line in Fiji is a distinct south-Indian thread that intermarried with the larger Bhojpuri Bihari community over the 20th century.",
+      "source": {
+        "type": "biography",
+        "title": "Jai Ram Reddy (Wikipedia / Indian Newslink / RNZ)",
+        "url": "https://en.wikipedia.org/wiki/Jai_Ram_Reddy",
+        "publisher": "Wikipedia / Indian Newslink / RNZ"
+      }
+    },
+    {
       "id": "panday-grandparents-trinidad",
       "names": ["[Basdeo Panday's grandparents]"],
       "gender": "M+F",
