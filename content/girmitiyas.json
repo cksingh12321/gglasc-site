@@ -915,6 +915,52 @@
       }
     },
     {
+      "id": "sookoo-son-of-mungalee-1881-trinidad",
+      "names": ["Sookoo (son of Mungalee)"],
+      "gender": "M",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "Uttar Pradesh (modern-day)" },
+      "depot": "Calcutta",
+      "depot_date": "1881-09-27",
+      "ship": null,
+      "sailing_date": "1881-09-27",
+      "destination": { "colony": "Trinidad", "arrival_date": null, "estate": "Sugar plantation (later, advocate for inter-estate Hindu/Muslim labour rights)" },
+      "descendants_named": [],
+      "notes": "Set sail from Calcutta to Trinidad on 27 September 1881. Once in the colony, Sookoo organised across estates: he contacted sirdars at neighbouring plantations and drafted a petition signed by himself, 21 other Hindus, and 11 Muslims drawn from 26 separate sugar estates — a remarkable early example of cross-religion, cross-estate organising by indentured labourers in Trinidad.",
+      "source": {
+        "type": "history",
+        "title": "How the Cultures of Trinidad Transformed an Islamic Festival",
+        "url": "https://newlinesmag.com/essays/how-the-cultures-of-trinidad-transformed-an-islamic-festival/",
+        "publisher": "New Lines Magazine / Scroll.in"
+      }
+    },
+    {
+      "id": "nidhoie-khelawan-trinidad",
+      "names": ["Nidhoie (wife)", "Khelawan (husband)"],
+      "gender": "F+M",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "North India" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "late 19th c.",
+      "destination": { "colony": "Trinidad (Nidhoie only — Khelawan remained in India)", "arrival_date": null, "estate": null },
+      "descendants_named": [
+        "[Three of Nidhoie's children who travelled with her to Trinidad]",
+        "[Two children who stayed in India with Khelawan]",
+        "Shaan Shankar (great-great-grandson — Trinidad-based researcher who today helps Indo-Trinidadian families trace their Indian roots; documented his own family's story from a 1932 letter that surfaced in the archives)"
+      ],
+      "notes": "Documented by descendant-researcher Shaan Shankar from a 1932 letter in the family archives. Nidhoie left her husband Khelawan in India and emigrated to Trinidad as an indentured labourer with three of their five children; two stayed behind with Khelawan. A rare named record of a female-initiated migration under the indenture system.",
+      "source": {
+        "type": "feature",
+        "title": "Searching through the fog of history, this man helps Trinidad families trace their Indian roots",
+        "url": "https://scroll.in/magazine/864273/searching-through-the-fog-of-history-this-man-helps-trinidad-families-trace-their-indian-roots",
+        "publisher": "Scroll.in"
+      }
+    },
+    {
       "id": "panday-grandparents-trinidad",
       "names": ["[Basdeo Panday's grandparents]"],
       "gender": "M+F",
