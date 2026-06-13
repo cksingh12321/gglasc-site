@@ -402,6 +402,75 @@
       }
     },
     {
+      "id": "boodhram-bissoondayia-sadhu-trinidad",
+      "names": ["Boodhram Sadhu", "Bissoondayia Sadhu"],
+      "gender": "M+F (a couple)",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": "Benares (Varanasi), by the Ganges", "district": "Varanasi", "state": "Uttar Pradesh" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "early 20th c. (before 1903 — arrived with infant son Sewdass)",
+      "destination": { "colony": "Trinidad", "arrival_date": null, "estate": "Waterloo Estates · settled at Brickfield" },
+      "descendants_named": [
+        "Sewdass Sadhu (son, b. 1 Jan 1903 in Benares — sugar worker at Waterloo Estates; built the Waterloo 'Temple in the Sea' single-handedly over 25 years after the colonial government demolished his first onshore temple in 1947)",
+        "Two younger sons (names not in public record)"
+      ],
+      "notes": "Indentured Hindu couple from Benares who carried their infant son Sewdass (b. 1 Jan 1903) and his two younger brothers to Trinidad. The family lived at Brickfield and worked the Waterloo sugar plantation. Sewdass's lifelong project — moving rocks by bicycle into the Gulf of Paria after work — became the Sewdass Sadhu Shiv Mandir, now a national monument completed by the government in 1995 on the 150th anniversary of Indian Arrival.",
+      "source": {
+        "type": "history",
+        "title": "Sewdass Sadhu Shiv Mandir — National Library and Information System (NALIS), Trinidad",
+        "url": "https://www.nalis.gov.tt/blog/sewdass-sadhu-shiv-mandir-temple-in-the-sea/",
+        "publisher": "NALIS Trinidad & Tobago / Wikipedia"
+      }
+    },
+    {
+      "id": "balasundaram-natal-1894",
+      "names": ["Balasundaram"],
+      "gender": "M",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "Madras Presidency (Tamil region)" },
+      "depot": "Madras",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "pre-1894",
+      "destination": { "colony": "Natal, South Africa", "arrival_date": null, "estate": "Indentured to a powerful European employer in Durban (name redacted in Gandhi's account)" },
+      "descendants_named": [],
+      "notes": "The Tamil indentured labourer whose 1894 case changed the course of Mahatma Gandhi's life. Beaten so severely by his European master that two of his teeth were broken, he fell at the young advocate Gandhi's feet and pleaded for rescue. Gandhi got his indenture transferred to another employer and prosecuted the master — the case that won Gandhi his standing among indentured Indians in Natal and seeded what would become satyagraha. Documented by Gandhi himself in *An Autobiography* (Chapter 44).",
+      "source": {
+        "type": "primary-source",
+        "title": "An Autobiography or The Story of My Experiments with Truth — Chapter 44: Balasundaram",
+        "url": "https://www.gandhiashramsevagram.org/autobiography/chapter-44.php",
+        "publisher": "M. K. Gandhi (1927) — via Gandhi Ashram Sevagram"
+      }
+    },
+    {
+      "id": "kanhai-grandparents-port-mourant",
+      "names": ["[Rohan Kanhai's grandparents]"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "North India (specifics not in public record)" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "late 19th c. — early 20th c.",
+      "destination": { "colony": "British Guiana (Guyana)", "arrival_date": null, "estate": "Plantation Port Mourant, Corentyne, Berbice (sugarcane)" },
+      "descendants_named": [
+        "[Rohan Kanhai's father] — settled at Port Mourant; earned a living buying and selling rice",
+        "Rohan Babulal Kanhai (grandson, b. 26 Dec 1935, Plantation Port Mourant — West Indies Test cricketer, 79 Tests, 6,227 runs at 47.53, 15 centuries; widely regarded as one of the great batsmen of the 1960s)"
+      ],
+      "notes": "Came from India to British Guiana under the indenture system to work the sugar plantations. Settled at the famous Plantation Port Mourant — the same Berbice estate that produced Cheddi Jagan, Joe Solomon, Basil Butcher, Alvin Kallicharran and many other Indo-Guyanese figures. Specific village and ship not on public record; partial entry pending family confirmation.",
+      "source": {
+        "type": "biography",
+        "title": "Rohan Kanhai (Wikipedia / Stabroek News / ESPNcricinfo)",
+        "url": "https://en.wikipedia.org/wiki/Rohan_Kanhai",
+        "publisher": "Wikipedia / Stabroek News / Wisden"
+      }
+    },
+    {
       "id": "panday-grandparents-trinidad",
       "names": ["[Basdeo Panday's grandparents]"],
       "gender": "M+F",
