@@ -749,6 +749,98 @@
       }
     },
     {
+      "id": "lachmon-parents-suriname",
+      "names": ["[Jagernath Lachmon's parents]"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "Uttar Pradesh" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "late 19th – early 20th century",
+      "destination": { "colony": "Suriname (Dutch Guiana)", "arrival_date": null, "estate": "Plantation Waterloo, Corantijnpolder (Nickerie district)" },
+      "descendants_named": [
+        "Jagernath Lachmon (son, 21 Sep 1916 Corantijnpolder – 19 Oct 2001 The Hague) — youngest of six; lawyer (started own practice 1940); co-founder + lifelong president of the Progressive Reform Party (VHP), the Indo-Surinamese political party, from 1947 until his death. Dominated Surinamese politics for over five decades as the architect of 'fraternisation politics'."
+      ],
+      "notes": "Contract-labourer parents from Uttar Pradesh: the father was a cook on the estate, the mother clipped cane at Plantation Waterloo in the western Nickerie district. Their youngest son Jagernath would become the central figure in 20th-century Surinamese political life.",
+      "source": {
+        "type": "encyclopaedia",
+        "title": "Jagernath Lachmon (Wikipedia / Waterkant / United News)",
+        "url": "https://en.wikipedia.org/wiki/Jagernath_Lachmon",
+        "publisher": "Wikipedia / Waterkant"
+      }
+    },
+    {
+      "id": "ramphal-greatgrandmother-1870s-british-guiana",
+      "names": ["[Shridath Ramphal's paternal great-grandmother + her infant son (Ramphal's grandfather)]"],
+      "gender": "F (with infant M)",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "North India" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1870s",
+      "destination": { "colony": "British Guiana (Guyana)", "arrival_date": null, "estate": "Sugar plantation (later a small farm in Berbice region)" },
+      "descendants_named": [
+        "[Grandfather] — farmer who rose through the Canadian Presbyterian Church to become a 'catechist' (lay preacher)",
+        "Sir Shridath Surendranath Ramphal QC OE OCC AC (great-grandson, 3 Oct 1928 – 30 Aug 2024) — Guyanese barrister, diplomat and statesman; Foreign Minister of Guyana; 2nd Secretary-General of the Commonwealth of Nations 1975–1990; co-author of the Brandt Report and architect of much modern Commonwealth diplomacy"
+      ],
+      "notes": "Came as an indentured woman in the 1870s with her infant son. Three generations later her great-grandson Shridath Ramphal would help shape the modern Commonwealth and global development discourse. The family's conversion under the Canadian Presbyterian Mission is a thread shared with Joe Solomon's lineage and many other Indo-Guyanese Christian families.",
+      "source": {
+        "type": "interview",
+        "title": "Ramphal interview (UN Intellectual History Project, 14–15 January 2002) — Final Transcript",
+        "url": "https://www.ralphbuncheinstitute.org/un-intellectual-history-project/PDFs/Ramphal.pdf",
+        "publisher": "Ralph Bunche Institute / Encyclopedia.com / Guyana Times"
+      }
+    },
+    {
+      "id": "anant-ram-1838-british-guiana",
+      "names": ["Anant Ram"],
+      "gender": "M",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": "Chota Nagpur Plateau (tribal belt)", "state": "Bihar Presidency (now Jharkhand)" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": "Hesperus",
+      "sailing_date": "1838-01-29",
+      "destination": { "colony": "British Guiana (Guyana)", "arrival_date": "1838-05-05", "estate": "Berbice sugar plantation" },
+      "descendants_named": [],
+      "notes": "One of the named survivors of the Hesperus voyage — the second of the two pioneer indenture ships to British Guiana (the other being the Whitby). 165 boarded at Calcutta on 29 January 1838; 13 died during the 96-day passage; Anant Ram was among the ~152 who reached Port Demerara on 5 May 1838. From the Chota Nagpur plateau in what was then Bihar (now Jharkhand) — a major source region for the earliest indenture intake.",
+      "source": {
+        "type": "history",
+        "title": "180-year journey — Anant Ram stepped off the boat",
+        "url": "https://medium.com/@saif305/180-year-journey-5eb368860237",
+        "publisher": "Saif Ishoof (Medium) / Royal Historical Society 'Beyond this Day'"
+      }
+    },
+    {
+      "id": "mahendra-chaudhry-maternal-grandfather-kerala-fiji",
+      "names": ["[Mahendra Chaudhry's maternal grandfather]"],
+      "gender": "M",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "Kerala (Madras Presidency)" },
+      "depot": "Madras",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "early 1900s",
+      "destination": { "colony": "Fiji", "arrival_date": "early 1900s", "estate": "Sugarcane plantations" },
+      "descendants_named": [
+        "[Daughter — mother of Mahendra Chaudhry]",
+        "Mahendra Pal Chaudhry (grandson, b. 1942 — Prime Minister of Fiji 1999–2000)"
+      ],
+      "notes": "An unusual south-Indian line in Fiji: most Fijian Girmitiyas came from the Bhojpuri belt of Bihar and UP via Calcutta, but Chaudhry's maternal grandfather came from Kerala via the Madras depot in the early 1900s. He settled in Fiji and his daughter — the future mother of PM Mahendra Chaudhry — married Ram Gopal, son of paternal grandfather Ram Nath Chaudhry (see the separate Bahu Jamalpur, Rohtak record from 1902).",
+      "source": {
+        "type": "encyclopaedia",
+        "title": "Mahendra Chaudhry — family history (Wikipedia / Jatland Wiki)",
+        "url": "https://en.wikipedia.org/wiki/Mahendra_Chaudhry",
+        "publisher": "Wikipedia / Jatland Wiki"
+      }
+    },
+    {
       "id": "panday-grandparents-trinidad",
       "names": ["[Basdeo Panday's grandparents]"],
       "gender": "M+F",
