@@ -841,6 +841,80 @@
       }
     },
     {
+      "id": "nyepal-mother-trinidad-naipaul-paternal",
+      "names": ["[V. S. Naipaul's paternal great-great-grandmother]", "Nyepal (her infant son — became Naipaul's paternal great-grandfather)"],
+      "gender": "F (with infant M)",
+      "age_at_sailing": null,
+      "caste": "Brahmin",
+      "origin": { "village": null, "district": null, "state": "Gangetic plains, North India (UP / Bihar)" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "19th century",
+      "destination": { "colony": "Trinidad", "arrival_date": null, "estate": "Sugar-cane fields (later, settlement near Cunupia)" },
+      "descendants_named": [
+        "Nyepal (son, b. India — grew up in Trinidad as a 'free Indian'; the source of the family name 'Naipaul')",
+        "[Seepersad Naipaul's father] (died early)",
+        "Seepersad Naipaul (great-grandson, 14 Apr 1906 Cunupia – 1953 — Trinidadian journalist and short-story writer, author of *Gurudeva and Other Indian Tales* (1943))",
+        "Sir V. S. Naipaul (great-great-grandson, 1932–2018, Nobel Laureate in Literature 2001)",
+        "Shiva Naipaul (great-great-grandson, novelist)"
+      ],
+      "notes": "The PATERNAL line of the Naipaul family (the maternal Capildeo line is a separate record). Seepersad Naipaul's grandmother came as an indentured labourer carrying her infant son Nyepal — whose name became the family surname 'Naipaul'. When the family later proposed returning to India, young Seepersad reportedly hid in a toilet to avoid the journey; the family stayed in Trinidad. Three generations on, Seepersad's eldest son V. S. Naipaul won the Nobel Prize in Literature.",
+      "source": {
+        "type": "encyclopaedia",
+        "title": "Seepersad Naipaul (Wikipedia / Borderless Journal / Peepal Tree Press)",
+        "url": "https://en.wikipedia.org/wiki/Seepersad_Naipaul",
+        "publisher": "Wikipedia / Borderless Journal / Cambridge University Press"
+      }
+    },
+    {
+      "id": "ram-jiyawan-1912-british-guiana",
+      "names": ["Ram Jiyawan"],
+      "gender": "M",
+      "age_at_sailing": null,
+      "caste": "Nonia (salt-makers)",
+      "origin": { "village": "Pure Thakurain (Thakurain Purwa)", "district": "Amethi", "state": "Uttar Pradesh (Awadh region — then United Provinces)" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1912",
+      "destination": { "colony": "British Guiana (Guyana)", "arrival_date": "1912", "estate": "Sugar plantations of British Guiana (later Unity Village area)" },
+      "descendants_named": [
+        "[Father of Bharrat Jagdeo]",
+        "Bharrat Jagdeo (grandson, b. 23 Jan 1964, Unity Village — President of Guyana 1999–2011 — currently Vice-President)"
+      ],
+      "notes": "Migrated in 1912 from Pure Thakurain (also rendered Thakurain Purwa) — a village in Amethi district, in the Awadh region of UP. The family belongs to the Nonia caste (traditional salt-makers). His grandson Bharrat Jagdeo visited the village on 24 August 2003 accompanied by Union Minister Digvijay Singh, where he was greeted by his relative Ram Dularey and the villagers who reportedly had never seen electricity.",
+      "source": {
+        "type": "news",
+        "title": "Guyana's President Bharrat Jagdeo sits with relative Ram Dularey (Getty Images / Britannica / Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Bharrat_Jagdeo",
+        "publisher": "Wikipedia / Britannica / Getty Images / Indiaspora"
+      }
+    },
+    {
+      "id": "purryag-ancestors-wajidpur-mauritius",
+      "names": ["[Sir Rajkeswur 'Kailash' Purryag's ancestors]"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": "Wajidpur", "district": "Patna (Punpun block)", "state": "Bihar" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "~1860s (about 150 years before Purryag's 2013 visit)",
+      "destination": { "colony": "Mauritius", "arrival_date": null, "estate": "Mauritius sugar plantations" },
+      "descendants_named": [
+        "Sir Rajkeswur 'Kailash' Purryag GCSK GOSK QC (great-great-grandson, b. 12 Dec 1947 — 6th President of Mauritius 2012–2017, formerly Speaker of the National Assembly)"
+      ],
+      "notes": "Indentured forefathers from Wajidpur village in Punpun block, Patna district, Bihar. President Purryag had searched for the ancestral village for ~25 years without success, until Bihar CM Nitish Kumar's office traced it; he visited in January 2013 while in India to address the Pravasi Bharatiya Divas in Kochi.",
+      "source": {
+        "type": "news",
+        "title": "Mauritius President to visit his ancestral village in Patna's Wajidpur",
+        "url": "https://www.business-standard.com/article/news-ians/mauritius-president-in-bihar-to-visit-ancestral-village-113010605020_1.html",
+        "publisher": "Business Standard / News Bihar Prabha / Deccan Herald"
+      }
+    },
+    {
       "id": "panday-grandparents-trinidad",
       "names": ["[Basdeo Panday's grandparents]"],
       "gender": "M+F",
