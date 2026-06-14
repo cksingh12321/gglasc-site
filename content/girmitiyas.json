@@ -1385,6 +1385,93 @@
       }
     },
     {
+      "id": "kunti-1913-fiji-nadewa",
+      "names": ["Kunti"],
+      "gender": "F",
+      "age_at_sailing": null,
+      "caste": "low caste (cobbler family)",
+      "origin": { "village": null, "district": null, "state": "North India" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "pre-1913",
+      "destination": { "colony": "Fiji", "arrival_date": null, "estate": "Nadewa, Rewa (banana / sugar)" },
+      "descendants_named": [],
+      "notes": "On 10 April 1913, sent alone to weed an isolated banana patch at Nadewa in Rewa, Fiji — punishment for 'quarrelsome' behaviour. Overseer Cobcroft caught hold of her and made 'improper suggestions'; she escaped, ran to the Wainibokasi river and threw herself in, saved from drowning by **Jagdeo**, a boy in a dinghy nearby. A letter attributed to Kunti, published in a Calcutta newspaper in August 1913, ignited an India-wide protest that helped force the abolition of the indenture system in 1916. Brij V. Lal's 1985 essay *Kunti's Cry* (in *Chalo Jahaji*) made her name central to indenture historiography.",
+      "source": {
+        "type": "essay",
+        "title": "Kunti's Cry: Indentured Women on Fiji Plantations — Brij V. Lal (1985)",
+        "url": "https://girmitiya.girmit.org/new/index.php/2021/04/07/kuntis-cry-an-excerpt-from-chalo-jahaji-by-dr-brij-lal/",
+        "publisher": "*Chalo Jahaji* / SAGE / NewGirmit / Indian Economic & Social History Review"
+      }
+    },
+    {
+      "id": "naraini-fiji",
+      "names": ["Naraini"],
+      "gender": "F",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "North India" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "late 19th – early 20th c.",
+      "destination": { "colony": "Fiji", "arrival_date": null, "estate": "Sugarcane plantation" },
+      "descendants_named": [],
+      "notes": "An indentured woman in Fiji who was ordered by an overseer to return to work only three days after giving birth to a stillborn child. When she refused, she was beaten unconscious. The case reached the Fiji Supreme Court, which acquitted the overseer. Naraini lost her senses after the assault and lived the rest of her life as an insane vagrant. Documented alongside Kunti in Brij V. Lal's scholarship as the cases that destroyed colonial myths about the 'consenting' indentured woman.",
+      "source": {
+        "type": "essay",
+        "title": "The Story of Kunti & Naraini — NewGirmit",
+        "url": "https://girmitiya.girmit.org/new/index.php/2021/02/01/kunti-naraini/",
+        "publisher": "NewGirmit.org / Brij V. Lal scholarship"
+      }
+    },
+    {
+      "id": "jagdeo-boy-fiji-1913",
+      "names": ["Jagdeo (the boy in the dinghy)"],
+      "gender": "M",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "North India (almost certainly Fiji-born child of indentureds)" },
+      "depot": null,
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": null,
+      "destination": { "colony": "Fiji", "arrival_date": null, "estate": "Rewa river area" },
+      "descendants_named": [],
+      "notes": "A boy in a dinghy on the Wainibokasi river in April 1913 who saved Kunti from drowning after she threw herself in to escape attempted rape by overseer Cobcroft. A small but named role in one of the most consequential episodes of the indenture era — the one that led to the abolition of the system in 1916.",
+      "source": {
+        "type": "essay",
+        "title": "Kunti's Cry — Brij V. Lal (1985), *Chalo Jahaji*",
+        "url": "https://girmitiya.girmit.org/new/index.php/2021/04/07/kuntis-cry-an-excerpt-from-chalo-jahaji-by-dr-brij-lal/",
+        "publisher": "*Chalo Jahaji* / NewGirmit"
+      }
+    },
+    {
+      "id": "pretaap-radhakishun-suriname",
+      "names": ["[Pretaap Radhakishun's grandparents]"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "Bhojpuri belt — UP / Bihar" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1873–1916 (Suriname indenture window)",
+      "destination": { "colony": "Suriname (Dutch Guiana)", "arrival_date": null, "estate": "Paramaribo-area plantations" },
+      "descendants_named": [
+        "Pretaap Radhakishun (grandson, 3 Sep 1934 Paramaribo – 6 Jan 2001 — Surinamese politician of Hindostani descent; Prime Minister of Suriname July 1986 – April 1987; Vice-President of Suriname Sep 1996 – Aug 2000. Earned a degree in mathematics and physics (1958) and a doctorandus in chemistry (1962) from Leiden University)",
+        "Harry Radhakishun (relative — also Surinamese politician)"
+      ],
+      "notes": "Hindostani-Surinamese family of indenture descent. Pretaap Radhakishun was one of the senior Indo-Surinamese figures who governed during the transitions between military and civilian rule in late-20th-century Suriname.",
+      "source": {
+        "type": "encyclopaedia",
+        "title": "Pretaap Radhakishun (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Pretaap_Radhakishun",
+        "publisher": "Wikipedia"
+      }
+    },
+    {
       "id": "panday-grandparents-trinidad",
       "names": ["[Basdeo Panday's grandparents]"],
       "gender": "M+F",
