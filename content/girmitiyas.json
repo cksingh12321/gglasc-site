@@ -394,23 +394,40 @@
     },
     {
       "id": "whitby-cohort-1838-british-guiana",
-      "names": ["Whitby & Hesperus pioneer cohort", "396 Indian indentureds"],
-      "gender": "M+F (Whitby: 233 men, 5 women, 6 children — 5 died en route)",
+      "names": [
+        "Whitby & Hesperus pioneer cohort",
+        "396 Indian indentureds",
+        "Ally Buckus (Muslim mate, Plantation Highbury, Berbice)",
+        "Chummare (Muslim mate, Plantation Highbury)",
+        "Sheebah (age 18, Muslim woman, accompanied husband Beejo, Highbury)",
+        "Beejo (#92 on register, Highbury)",
+        "Nophur (age 25, from Bancoorah / Bankura, West Bengal — died en route)",
+        "Nuthaw Khaw / Nertha Khan (Muslim sardar, Plantation Bellevue, Demerara — later converted to Christianity)",
+        "Jhurreechuck / Thurry Huck (Muslim mate, Bellevue)",
+        "Jeewoon Khaw / Irrwan Khan (Muslim, Gladstone Plantations Vreed-en-Hoop, with wife Bharrupp)",
+        "Bharrupp (wife of Jeewoon Khaw)",
+        "Coda Buckus (age 26–27, Pathan, from Arrah, Bihar — Gladstone Plantations)",
+        "Soonawoolah (Muslim — died en route)",
+        "Kryamt (Muslim — died en route)",
+        "Uckloo (Muslim, with wife and four children, Plantation Anna Regina, Essequibo)",
+        "Kyut Alle (Muslim, Anna Regina)"
+      ],
+      "gender": "M+F (Whitby: 233 men, 5 women, 6 children — 5 died en route; Hesperus: 165 — 13 died)",
       "age_at_sailing": null,
-      "caste": "Hill peoples and Bhojpuri/Awadhi speakers",
-      "origin": { "village": null, "district": null, "state": "North India (Bihar / UP / Bengal hills)" },
+      "caste": "Hill peoples, Bhojpuri/Awadhi speakers, and a documented cohort of Muslim Pathans/sardars",
+      "origin": { "village": "Bancoorah (Bankura) and Arrah (Bhojpur) among recorded points", "district": "Chota Nagpur, Burdwan, Bancoorah, Arrah", "state": "Bihar / Bengal / Chota Nagpur" },
       "depot": "Calcutta",
       "depot_date": "1837-12-29 (indenture papers dated)",
       "ship": "Whitby (sister ship: Hesperus)",
       "sailing_date": "1838-01-13",
-      "destination": { "colony": "British Guiana (Guyana)", "arrival_date": "1838-05-05", "estate": "Plantation Highbury (Berbice — 117 labourers incl. 11 women), Waterloo, Belle View (West Demerara), Anna Regina (Essequibo)" },
+      "destination": { "colony": "British Guiana (Guyana)", "arrival_date": "1838-05-05", "estate": "Plantation Highbury (Berbice — 117 labourers incl. 11 women), Plantation Bellevue (Demerara), Gladstone Plantations Vreed-en-Hoop & Vriedestein (West Demerara), Plantation Anna Regina (Essequibo)" },
       "descendants_named": [],
-      "notes": "Pioneer cohort record. The Whitby (249 indentureds on board) and Hesperus arrived together at Berbice with 396 total Indian indentured workers — the very first to British Guiana. Voyage 112 days, 5 deaths en route. The arrival is now commemorated as Indian Arrival Day in Guyana (5 May). Backed by sugar-plantation owner John Gladstone in what was known as the 'Gladstone Experiment'.",
+      "notes": "Pioneer cohort record. The Whitby (249 indentureds on board) and Hesperus (165) arrived together at Berbice on 5 May 1838 with 396 total Indian indentured workers — the very first to British Guiana. Voyage 112 days, 5 deaths on Whitby and 13 on Hesperus. The arrival is now commemorated as **Indian Arrival Day in Guyana (5 May)**. Backed by sugar-plantation owner **John Gladstone** in what was known as the 'Gladstone Experiment'. Around 94 of the arrivals were Muslim; many of their names are individually recorded in the plantation registers and are listed above, giving us perhaps the most-documented religious-minority subgroup in the entire indenture era.",
       "source": {
         "type": "history",
-        "title": "The Whitby and Hesperus: The First Indian Indentured Servant Ships to Guyana",
+        "title": "The Whitby and Hesperus + '1838 First Indian Muslim Arrival in Guyana' (Caribbean Muslims) + Theophilus Richmond *The First Crossing* diary",
         "url": "https://westindiandiplomacy.com/whitby-and-hesperus/",
-        "publisher": "West Indian Diplomacy / Guyana National Trust / Royal Historical Society"
+        "publisher": "West Indian Diplomacy / Caribbean Muslims / Guyana National Trust / Royal Historical Society / Caribbean Press (Richmond diary)"
       }
     },
     {
