@@ -1385,6 +1385,192 @@
       }
     },
     {
+      "id": "lachmon-parents-suriname",
+      "names": ["[Jagernath Lachmon's father (cook)]", "[Jagernath Lachmon's mother (cane-cutter)]"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "Uttar Pradesh" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "early 20th century (1916 or earlier)",
+      "destination": { "colony": "Suriname (Dutch Guiana)", "arrival_date": null, "estate": "Plantation Waterloo" },
+      "descendants_named": [
+        "Jagernath Lachmon (son, b. 21 September 1916 – d. 19 October 2001 — Surinamese statesman; co-founder of the Vatan Hitkari Party / VHP — 'Progressive Reform Party' — in 1947, the principal Indo-Surinamese political party; President of VHP from founding until his death; long-serving Speaker of the National Assembly of Suriname)"
+      ],
+      "notes": "His parents were contract labourers from Uttar Pradesh to Suriname — father a cook, mother clipped cane on Plantation Waterloo. The family chose the surname **Lachmon** on arrival at the plantation. Their son went on to become the most enduring Indo-Surinamese political figure of the 20th century, spending more than 50 years in parliament and presiding over much of the National Assembly's modern era.",
+      "source": {
+        "type": "encyclopaedia / obituary",
+        "title": "Jagernath Lachmon (Wikipedia) + CARICOM SG message on his passing",
+        "url": "https://en.wikipedia.org/wiki/Jagernath_Lachmon",
+        "publisher": "Wikipedia, CARICOM, Alchetron, dbpedia"
+      }
+    },
+    {
+      "id": "ram-nath-chaudhry-1902-fiji",
+      "names": ["Ram Nath Chaudhry"],
+      "gender": "M",
+      "age_at_sailing": null,
+      "caste": "Hindu (Jat)",
+      "origin": { "village": "Bahu Jamalpur", "district": "Rohtak", "state": "Haryana" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1902",
+      "destination": { "colony": "Fiji", "arrival_date": "1902", "estate": "Sugarcane plantation" },
+      "descendants_named": [
+        "Mahendra Pal Chaudhry (grandson, b. 9 October 1942, Tagi Tagi, Tavua, Fiji — leader of the Fiji Labour Party; **Fiji's first Indo-Fijian Prime Minister**, sworn in 19 May 1999; deposed and held hostage in the 19 May 2000 coup led by George Speight; Krishna Menon Award recipient 2018)"
+      ],
+      "notes": "Paternal grandfather of Mahendra Chaudhry. One of the relatively rare indentureds from Haryana (most Fiji Girmitiyas were Bhojpuri-speaking — only a small minority came from Punjab/Haryana). Brought to Fiji in 1902 to cut cane; his grandson rose to become the first Indo-Fijian Prime Minister of Fiji.",
+      "source": {
+        "type": "biography",
+        "title": "Mahendra Chaudhry — biography (Jatland Wiki, India.com, peoplepill)",
+        "url": "https://www.jatland.com/home/Mahendra_Chaudhary",
+        "publisher": "Jatland / India.com / Britannica / Wikipedia"
+      }
+    },
+    {
+      "id": "ram-lakhan-mishra-1889-trinidad",
+      "names": ["Pandit Ram Lakhan Mishra"],
+      "gender": "M",
+      "age_at_sailing": null,
+      "caste": "Brahmin (Hindu)",
+      "origin": { "village": "Bhelupur", "district": "Buxar", "state": "Bihar" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1889",
+      "destination": { "colony": "Trinidad", "arrival_date": "1889", "estate": null },
+      "descendants_named": [
+        "Kamla Persad-Bissessar (great-granddaughter, b. 22 April 1952, Siparia, Trinidad — Prime Minister of Trinidad and Tobago 2010–2015 and again from 2025; **first woman PM** of Trinidad and Tobago; MP for Siparia 1995–present; first woman Leader of the Opposition. Famous for her 'I am a coolie girl' speech embracing her indenture lineage)"
+      ],
+      "notes": "Brahmin Pandit from Bhelupur village in Buxar district, Bihar; arrived Trinidad 1889 as an indentured labourer. His descendant Kamla Persad-Bissessar — daughter of Texaco bookkeeper Lilraj Persad and roti-shop owner Rita — became the first woman Prime Minister of Trinidad and Tobago, and in her 2025 victory speech declared 'we are the fulfilment of the jahajis' dream'.",
+      "source": {
+        "type": "feature / biography",
+        "title": "From Buxar to Caribbean — Kamla Persad-Bissessar's Bihar connection (Daily Jagran) + Global Indian + Trinidad Express",
+        "url": "https://www.thedailyjagran.com/world/kamla-persad-bissessar-who-is-trinidad-and-tobago-pm-and-her-connection-to-bihar-buxar-pm-modi-hails-her-roots-10250187",
+        "publisher": "Daily Jagran / Global Indian / Trinidad Express / Sunday Guardian"
+      }
+    },
+    {
+      "id": "sumaria-madras-trinidad",
+      "names": ["Sumaria", "Seepersad (husband, met & married in Trinidad)"],
+      "gender": "F",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": "Madras (Chennai)", "state": "Tamil Nadu" },
+      "depot": "Madras",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "late 19th century",
+      "destination": { "colony": "Trinidad", "arrival_date": null, "estate": null },
+      "descendants_named": [
+        "Rita Persad (great-granddaughter; mother of Kamla Persad-Bissessar — domestic worker, cocoa-field labourer who later ran a roti shop)",
+        "Kamla Persad-Bissessar (great-great-granddaughter; PM of Trinidad and Tobago 2010–15 and 2025– )"
+      ],
+      "notes": "Maternal great-grandmother of Kamla Persad-Bissessar. One of the comparatively smaller stream of Madrasi (Tamil) indentured women who sailed from Madras to Trinidad; she married a fellow indentured labourer named Seepersad on the colony. The Persad-Bissessar family is therefore a *both-sides* Girmitiya lineage — Brahmin Buxar paternal line + Tamil Madras maternal line — meeting in southern Trinidad.",
+      "source": {
+        "type": "feature",
+        "title": "From Buxar to Caribbean — Daily Jagran + Global Indian biography of Kamla Persad-Bissessar",
+        "url": "https://www.globalindian.com/story/cover-story/kamla-persad-bissessar-indentured-labourers-great-granddaughter-becomes-trinidad-and-tobago-pm-second-time/",
+        "publisher": "Daily Jagran / Global Indian"
+      }
+    },
+    {
+      "id": "anerood-jugnauth-grandfather",
+      "names": ["[Anerood Jugnauth's grandfather]"],
+      "gender": "M",
+      "age_at_sailing": null,
+      "caste": "Ahir / Yadav (Hindu)",
+      "origin": { "village": null, "district": null, "state": "Bihar" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1850s",
+      "destination": { "colony": "Mauritius", "arrival_date": "1850s", "estate": "Palma area, sugar" },
+      "descendants_named": [
+        "Sir Anerood Jugnauth (grandson, b. 29 March 1930 in Palma, Mauritius; d. 3 June 2021 — Prime Minister of Mauritius 1982–95, 2000–03, 2014–17; President of Mauritius 2003–12)",
+        "Pravind Kumar Jugnauth (great-grandson, b. 25 December 1961 — Prime Minister of Mauritius 2017–24)"
+      ],
+      "notes": "Migrated from Bihar to Mauritius in the 1850s under the post-1834 indenture system that brought Bhojpuri-speaking labourers to the sugar estates. The family belonged to the Ahir Yadav cattle-herder caste and settled in Palma village, where Anerood was born in a modest household. Two Jugnauth generations went on to lead Mauritius — among the most direct lines from Girmitiya ship to Government House in the entire diaspora.",
+      "source": {
+        "type": "obituary / encyclopaedic",
+        "title": "Sir Anerood Jugnauth — obituary & bio (Trends Africa / Kiddle / Grokipedia)",
+        "url": "https://trendsnafrica.com/sir-anerood-jugnauth-former-pm-of-mauritius-is-no-more/",
+        "publisher": "Trends Africa, Kiddle, Grokipedia"
+      }
+    },
+    {
+      "id": "chan-santokhi-grandparents",
+      "names": ["[Chan Santokhi's grandparents]"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "Bihar" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "19th century (1873–1916 Suriname window)",
+      "destination": { "colony": "Suriname (Dutch Guiana)", "arrival_date": null, "estate": "Wanica district plantations" },
+      "descendants_named": [
+        "Chandrikapersad 'Chan' Santokhi (grandson, b. 3 February 1959 in Lelydorp, Wanica, Suriname — President of Suriname 2020–2025; former Minister of Justice; former Police Commissioner). Youngest of nine siblings; father a Paramaribo harbour worker, mother a shop assistant."
+      ],
+      "notes": "Indo-Surinamese (Hindostani) Hindu family. Grandparents migrated from Bihar as indentured labourers in the 19th century — part of the 34,000+ Bihari and UP Hindostanis brought by the Dutch between 1873 and 1916. Chan Santokhi rose from a harbour-worker's son to head of state, holding the presidency 2020–25.",
+      "source": {
+        "type": "biography",
+        "title": "Chandrikapersad Santokhi (1959– ) — BlackPast",
+        "url": "https://www.blackpast.org/global-african-history/chandrikapersad-santokhi-1959/",
+        "publisher": "BlackPast / Free Press Journal"
+      }
+    },
+    {
+      "id": "djwalapersad-grandparents-suriname",
+      "names": ["[Marijke Djwalapersad's grandparents]"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "Bhojpuri belt — UP / Bihar" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1873–1916 (Suriname indenture window)",
+      "destination": { "colony": "Suriname (Dutch Guiana)", "arrival_date": null, "estate": null },
+      "descendants_named": [
+        "Marijke Indradebie Djwalapersad (granddaughter, b. 28 Dec 1951 – d. 11 Sep 2025 — Chairperson of the National Assembly of Suriname 1996–2000, the **first woman** to hold the position. Active as a translator in Hindi, English, Sarnami, Sranan Tongo and Dutch)"
+      ],
+      "notes": "Hindostani-Surinamese family of indenture descent. Marijke Djwalapersad broke the gender barrier in Surinamese parliamentary leadership; her funeral in 2025 was held with state honours.",
+      "source": {
+        "type": "encyclopaedia / news",
+        "title": "Marijke Djwalapersad — Wikipedia / Surinametimes obituary",
+        "url": "https://en.wikipedia.org/wiki/Marijke_Djwalapersad",
+        "publisher": "Wikipedia, Surinametimes, gov.sr"
+      }
+    },
+    {
+      "id": "sundar-popo-ancestors-trinidad",
+      "names": ["[Sundar Popo's Nana & Nani — grandparents]"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": "Hindu Indo-Trinidadian",
+      "origin": { "village": null, "district": null, "state": "Bhojpuri belt — UP / Bihar" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1845–1917 (Trinidad indenture window)",
+      "destination": { "colony": "Trinidad", "arrival_date": null, "estate": "Barrackpore / Princes Town area sugar estates" },
+      "descendants_named": [
+        "Sundarlal Popo Bahora — **'Sundar Popo'** (grandson, b. 4 November 1943, Monkey Town, Barrackpore, Trinidad – d. 2 May 2000). Father of modern *chutney music*; his 1969 song *Nana and Nani* — about a wine-loving grandfather and grandmother — fused English with Bhojpuri and became the foundational track of the entire genre. Father a tassa drummer; mother a singer."
+      ],
+      "notes": "Sundar Popo's most beloved song is itself a Girmitiya record — *Nana and Nani* is an oral portrait of his own indentured grandparents, who came from the Bhojpuri belt of north India to work the sugar estates of south Trinidad in the late-indenture era. The song reshaped Caribbean popular music and is now sung from Toronto to Suva.",
+      "source": {
+        "type": "encyclopaedia / feature",
+        "title": "Sundar Popo (Wikipedia) + 'A quick guide to Sundar Popo' (Scroll.in)",
+        "url": "https://en.wikipedia.org/wiki/Sundar_Popo",
+        "publisher": "Wikipedia, Scroll.in, Trinidad Express, EasternEye"
+      }
+    },
+    {
       "id": "kunti-1913-fiji-nadewa",
       "names": ["Kunti"],
       "gender": "F",
