@@ -1293,22 +1293,23 @@
       "names": ["Sujaria"],
       "gender": "F",
       "age_at_sailing": null,
-      "caste": null,
-      "origin": { "village": null, "district": null, "state": "Bihar" },
-      "depot": "Calcutta",
-      "depot_date": null,
-      "ship": null,
+      "caste": "Brahmin (Hindu)",
+      "origin": { "village": null, "district": "Chapra (Saran)", "state": "Bihar" },
+      "depot": "Calcutta (registered at the Faizabad sub-depot on the day the ship was originally set to sail)",
+      "depot_date": "1903 (Faizabad registration)",
+      "ship": "Clyde (July 1903)",
       "sailing_date": "1903",
       "destination": { "colony": "British Guiana (Guyana)", "arrival_date": "1903", "estate": "Sugar plantations of British Guiana" },
       "descendants_named": [
-        "Gaiutra Bahadur (great-granddaughter — Indo-Guyanese-American journalist; author of *Coolie Woman: The Odyssey of Indenture* (2013) which won the Gordon K. and Sybil Lewis Prize and was a finalist for the 2014 Orwell Prize — the book that rescued an estimated 250,000 indentured women from historical anonymity)"
+        "[Sujaria's child born aboard / soon after the *Clyde* — Gaiutra Bahadur's great-grandfather]",
+        "Gaiutra Bahadur (great-granddaughter — Indo-Guyanese-American journalist; author of ***Coolie Woman: The Odyssey of Indenture*** (Hurst / University of Chicago Press, 2013), winner of the Gordon K. and Sybil Lewis Prize and finalist for the 2014 Orwell Prize — the book that rescued an estimated 250,000 indentured women from historical anonymity)"
       ],
-      "notes": "Sailed from Calcutta to British Guiana in 1903 as an indentured plantation labourer — pregnant and travelling alone, like many of the ~250,000 'coolie women' shipped from India between 1838 and 1917. Her great-granddaughter Gaiutra Bahadur traversed three continents and trawled colonial archives to reconstruct her story; the resulting book made Sujaria a touchstone for the rediscovery of women in the indenture record.",
+      "notes": "A Brahmin woman from **Chapra (Saran district), Bihar**; sailed from Calcutta to British Guiana on the ship **Clyde** in 1903 as a last-minute registrant added at the Faizabad sub-depot the very day the *Clyde* was originally set to sail. She was one of 16 pregnant women aboard; 12 of those 16 — including Sujaria — gave birth on or shortly after the voyage. Her great-granddaughter Gaiutra Bahadur traversed three continents and trawled colonial archives to reconstruct her story; the resulting book made Sujaria a touchstone for the rediscovery of women in the indenture record.",
       "source": {
         "type": "book",
-        "title": "Coolie Woman: The Odyssey of Indenture",
+        "title": "Coolie Woman: The Odyssey of Indenture — Gaiutra Bahadur",
         "url": "https://cooliewoman.com/",
-        "publisher": "Gaiutra Bahadur (University of Chicago Press, 2013) / Wikipedia / NPR"
+        "publisher": "Gaiutra Bahadur (Hurst / University of Chicago Press, 2013) / AAWW / The World (PRX) / NPR"
       }
     },
     {
@@ -1382,6 +1383,55 @@
         "title": "Subramani (Literary Encyclopedia / Wikipedia)",
         "url": "https://en.wikipedia.org/wiki/Subramani",
         "publisher": "Literary Encyclopedia / Wikipedia / Cambridge University Press"
+      }
+    },
+    {
+      "id": "brij-lal-grandfather-tabia-fiji-1908",
+      "names": ["[Brij V. Lal's grandfather]"],
+      "gender": "M",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "Bhojpuri belt — UP / Bihar" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1908",
+      "destination": { "colony": "Fiji", "arrival_date": "1908", "estate": "Tabia, Vanua Levu (later leased his own farm after indenture)" },
+      "descendants_named": [
+        "**Brij Vilash Lal** (grandson, b. 21 October 1952 Tabia, Vanua Levu – d. 25 December 2021 Brisbane — Indo-Fijian historian; *the* preeminent scholar of the Indian indenture system. Pioneering quantitative doctoral study of NW-India Girmitiya contracts to Fiji 1879–1916. Author of ***Chalo Jahaji: On a Journey through Indenture in Fiji*** (2000), ***Mr Tulsi's Store: A Fijian Journey*** (2001, Kiriyama Prize 'Notable'), and editor of ***Bittersweet: The Indo-Fijian Experience*** (2004). Banned from returning to Fiji in 2009 by the Bainimarama government for his pro-democracy writings; died in exile in Australia. The Ameena Gafoor Institute now awards an annual *Brij V. Lal Prize* in his honour)"
+      ],
+      "notes": "Sailed in 1908 — late in the 1879–1916 Fiji indenture window. Served out his five-year indenture, married, and leased land to begin his own farm in Tabia, Vanua Levu — the classic Girmit success arc. His grandson Brij V. Lal would go on to become the principal historian of the entire Girmitiya system; his autobiography *Mr Tulsi's Store* traces a direct line from this Tabia farm to the global academy. Much of *what we now know* about indenture — including the named cases of Kunti, Naraini, and many others in this index — comes from work he did out of that family farm.",
+      "source": {
+        "type": "obituary / autobiography",
+        "title": "Brij V. Lal (1952–2021) — Journal of Pacific History obituary + Fiji Times 'Passion for girmit immense' + *Mr Tulsi's Store: A Fijian Journey*",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/00223344.2023.2194033",
+        "publisher": "Journal of Pacific History / Fiji Times / NewGirmit / SAHistoryOnline"
+      }
+    },
+    {
+      "id": "pawan-kumar-chanderpaul-1873-guyana",
+      "names": ["Pawan Kumar Chanderpaul"],
+      "gender": "M",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": "Purnia", "state": "Bihar" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1873",
+      "destination": { "colony": "British Guiana", "arrival_date": "1873", "estate": null },
+      "descendants_named": [
+        "Khemraj (great-nephew — Shivnarine's father; rice farmer; early cricket coach to his son)",
+        "Uma Chanderpaul (great-niece-in-law — Shivnarine's mother; Bihari maternal line)",
+        "**Shivnarine 'Shiv' Chanderpaul** (great-grand-nephew, b. 16 August 1974, Unity Village, Guyana — one of the greatest batsmen of his era; captained West Indies in 14 Tests and 16 ODIs; central to West Indies' 2004 ICC Champions Trophy win; only the 4th cricketer ever to bat at every position 1–11 in Test cricket; ICC Cricketer of the Year 2008; Order of Australia)",
+        "Tagenarine Chanderpaul (great-great-grand-nephew, b. 2001 — West Indies opening batsman, son of Shivnarine)"
+      ],
+      "notes": "Records held by the **Purnia District Administration, Bihar** identify Pawan Kumar Chanderpaul as the great-grand-uncle of Shivnarine Chanderpaul. He emigrated to British Guiana in 1873 — the same year Suriname's pioneer Lalla Rookh sailed. His grand-nephew Shivnarine, born a century later in the same Unity Village in Demerara-Mahaica as President Bharrat Jagdeo (Pure Thakurain ancestry), became one of the greatest cricketers ever produced by the Caribbean. A second-generation West Indies Test player (Tagenarine Chanderpaul) now continues the line.",
+      "source": {
+        "type": "news / genealogy",
+        "title": "Shivnarine Chanderpaul — Indian-origin cricket stars (Global Indian) + Purnia District Admin records cited in The Sports Rush",
+        "url": "https://www.globalindian.com/story/cover-story/seven-indian-origin-cricket-stars-representing-other-nations/",
+        "publisher": "Global Indian / SportsDunia / Wikipedia / Cricket Monthly"
       }
     },
     {
