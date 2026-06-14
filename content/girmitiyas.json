@@ -1415,6 +1415,54 @@
       }
     },
     {
+      "id": "ballah-ancestors-quatre-bornes",
+      "names": ["[Sarojini Ballah Jugnauth's family — maternal grandparents of Pravind Jugnauth]"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": "Hindu Indo-Mauritian (Bhojpuri family of modest means)",
+      "origin": { "village": null, "district": null, "state": "Bhojpuri belt — UP / Bihar" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "mid-to-late 19th century",
+      "destination": { "colony": "Mauritius", "arrival_date": null, "estate": "Quatre Bornes area" },
+      "descendants_named": [
+        "Sarojini Ballah (granddaughter, b. 20 April 1938 in Quatre Bornes, British Mauritius — schoolteacher; married Sir Anerood Jugnauth; First Lady of Mauritius 2003–12 during her husband's presidency)",
+        "Pravind Kumar Jugnauth (great-grandson, b. 25 December 1961, La Caverne, Mauritius — Prime Minister of Mauritius 2017–24)",
+        "Shalini Jugnauth (great-granddaughter; married Dr Kishan Malhotra)"
+      ],
+      "notes": "Maternal lineage of Pravind Jugnauth. Together with the paternal Jugnauth line (Ahir Yadav, Rasra/Ballia, UP, 1850s) and the Ramgoolam line (Kushwaha, Harigaon, Bihar, 1896) — both already in this index — the Ballah record completes the picture that Mauritius's two greatest 20th–21st century political dynasties (Ramgoolam + Jugnauth) are *both* descended in every line from Indian indentured labourers brought to the island during the post-1834 sugar-estate migration.",
+      "source": {
+        "type": "biography",
+        "title": "Sarojini Jugnauth (Wikipedia) + Pravind Jugnauth — Kiddle / BlackPast",
+        "url": "https://en.wikipedia.org/wiki/Sarojini_Jugnauth",
+        "publisher": "Wikipedia / Kiddle / BlackPast / Planet Rulers"
+      }
+    },
+    {
+      "id": "busjeet-ancestors-mauritius",
+      "names": ["[Vinod Busjeet's grandparents — Indo-Mauritian indentured line]"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": "Hindu Indo-Mauritian",
+      "origin": { "village": null, "district": null, "state": "Bhojpuri belt — UP / Bihar" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1834–1910 (Mauritius indenture window)",
+      "destination": { "colony": "Mauritius", "arrival_date": null, "estate": null },
+      "descendants_named": [
+        "Vinod Busjeet (grandson — Mauritian-American author, Wesleyan / NYU / Harvard, 29 years at the World Bank, IFC and as a secondary school teacher; author of ***Silent Winds, Dry Seas*** (Doubleday, 2021) — **one of the first novels by a Mauritian author originally published in the United States**, an NPR Best Book of the Year. The deeply autobiographical coming-of-age novel follows Vishnu Bhushan, a young descendant of Indian indentured labourers in Mauritius, through Independence-era Mauritius)"
+      ],
+      "notes": "Vinod Busjeet's *Silent Winds, Dry Seas* is the first major US-published literary statement of Indo-Mauritian indenture experience. The novel's protagonist Vishnu Bhushan is explicitly a *young descendant of Indian indentured labourers in Mauritius*, and the book draws heavily on Busjeet's own family memory from Independence-era Mauritius.",
+      "source": {
+        "type": "biography / book",
+        "title": "Vinod Busjeet — *Silent Winds, Dry Seas* (Doubleday 2021) / Penguin Random House author page",
+        "url": "https://www.penguinrandomhouse.com/books/667912/silent-winds-dry-seas-by-vinod-busjeet/",
+        "publisher": "Doubleday / Penguin Random House / NPR / World Literature Today"
+      }
+    },
+    {
       "id": "brij-lal-grandfather-tabia-fiji-1908",
       "names": ["[Brij V. Lal's grandfather]"],
       "gender": "M",
