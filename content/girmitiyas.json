@@ -294,23 +294,23 @@
       "names": ["Moheeth Ramgoolam", "Moheeth"],
       "gender": "M",
       "age_at_sailing": 18,
-      "caste": null,
-      "origin": { "village": "Harigaon", "district": null, "state": "Bihar" },
+      "caste": "Kushwaha (Hindu)",
+      "origin": { "village": "Harigaon (Bihiya pargana)", "district": "Arrah / Bhojpur", "state": "Bihar" },
       "depot": "Calcutta",
       "depot_date": null,
       "ship": "The Hindoostan",
       "sailing_date": "1896",
-      "destination": { "colony": "Mauritius", "arrival_date": "1896", "estate": "Queen Victoria Sugar Estate" },
+      "destination": { "colony": "Mauritius", "arrival_date": "1896", "estate": "La Queen Victoria Sugar Estate" },
       "descendants_named": [
-        "Sir Seewoosagur Ramgoolam (son, 1900–1985, 1st Prime Minister of Mauritius, 'Father of the Nation')",
-        "Sir Navinchandra Ramgoolam (grandson, PM of Mauritius 1995–2000, 2005–2014, 2024– )"
+        "Sir Seewoosagur Ramgoolam (son, 18 Sep 1900 – 15 Dec 1985 — **1st Prime Minister of Mauritius** 1968–82; 'Father of the Nation'; Governor-General of Mauritius 1983–85)",
+        "Sir Navinchandra 'Navin' Ramgoolam (grandson, b. 14 July 1947 — Prime Minister of Mauritius 1995–2000, 2005–2014, and again from 2024)"
       ],
-      "notes": "Travelled at age 18 aboard 'The Hindoostan' from Calcutta. Worked as an indentured labourer and rose to Sirdar (overseer) at the Queen Victoria Sugar Estate. His elder brother Ramlochurn had already left Harigaon earlier. Father of Mauritius' founding PM.",
+      "notes": "Travelled at age 18 aboard 'The Hindoostan' from Calcutta and arrived Mauritius in 1896 as an indentured labourer. Belonged to the Kushwaha community. Rose from cane-cutter to overseer (Sirdar) at La Queen Victoria Sugar Estate. His elder brother **Ramlochurn** had already emigrated from their home village Harigaon (Bihiya pargana, Arrah / Bhojpur district, Bihar) in search of fortune abroad — and Indian sub-division revenue records still list Moheeth by name. His son became the founding Prime Minister of Mauritius; his grandson, Navin Ramgoolam, has now led the country four times — one of the most enduring political dynasties of the entire Girmitiya diaspora.",
       "source": {
         "type": "biography",
-        "title": "Seewoosagur Ramgoolam — biographical profiles",
-        "url": "https://www.geni.com/people/The-Rt-Hon-Sir-Seewoosagur-Ramgoolam-GCMG-LRCP-MRCS/6000000131319932977",
-        "publisher": "Geni / NRI Today / Global Indian Network"
+        "title": "Sir Seewoosagur Ramgoolam — biographical profiles + 'Mauritius Indians in search of their roots in Bihar' (TwoCircles)",
+        "url": "https://twocircles.net/2008may04/mauritius_indians_search_their_roots_bihar.html",
+        "publisher": "TwoCircles / BlackPast / Geni / Dr Reddy's Journal / Kiddle / NRI Today"
       }
     },
     {
@@ -1382,6 +1382,122 @@
         "title": "Subramani (Literary Encyclopedia / Wikipedia)",
         "url": "https://en.wikipedia.org/wiki/Subramani",
         "publisher": "Literary Encyclopedia / Wikipedia / Cambridge University Press"
+      }
+    },
+    {
+      "id": "selvon-paternal-grandfather-madras",
+      "names": ["[Sam Selvon's paternal grandfather — the Madras interpreter]"],
+      "gender": "M",
+      "age_at_sailing": null,
+      "caste": "Tamil (Christian-Tamil family in following generations)",
+      "origin": { "village": null, "district": "Madras (Chennai)", "state": "Tamil Nadu" },
+      "depot": "Madras",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "late 19th century",
+      "destination": { "colony": "Trinidad", "arrival_date": null, "estate": "Trinidad (later served as an interpreter — likely between English authorities and Tamil-speaking labourers)" },
+      "descendants_named": [
+        "Sam Selvon's father (first-generation Christian Tamil Indian; manager of a dry goods store in San Fernando)",
+        "Samuel Dickson 'Sam' Selvon (grandson, b. 20 May 1923 San Fernando, Trinidad – d. 16 April 1994 Port of Spain — Caribbean writer; author of ***The Lonely Londoners*** (1956), the foundational novel of Caribbean migrant literature, written in 'nation language' — and a Trinidad Government Literary Award (1969). Among the most influential post-war Caribbean writers in any language)"
+      ],
+      "notes": "Sam Selvon's paternal grandfather came from Madras to Trinidad as an indenture-era immigrant and worked as an interpreter — a comparatively rare 'literate Tamil' niche on an estate-dominated colony. The line was Christianised by Selvon's father's generation. Sam Selvon's maternal grandfather was Scottish, so this is the paternal-side Girmitiya record.",
+      "source": {
+        "type": "biography",
+        "title": "Sam Selvon (Britannica / Caribbean Beat / Peepal Tree)",
+        "url": "https://www.britannica.com/biography/Samuel-Selvon",
+        "publisher": "Britannica / Peepal Tree Press / Caribbean Beat / Indo-Caribbean Publications"
+      }
+    },
+    {
+      "id": "cyril-dabydeen-grandfather-rose-hall",
+      "names": ["[Cyril Dabydeen's grandfather — the Rose Hall driver]"],
+      "gender": "M",
+      "age_at_sailing": null,
+      "caste": null,
+      "origin": { "village": null, "district": null, "state": "Bhojpuri belt — UP / Bihar" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "late 19th – early 20th century",
+      "destination": { "colony": "British Guiana", "arrival_date": null, "estate": "Rose Hall Sugar Estate, Canje, Berbice (rose to be 'driver' on the estate)" },
+      "descendants_named": [
+        "Cyril Dabydeen (grandson, b. 1945, Canje, Berbice — raised in Adelphi village; Indo-Guyanese-Canadian writer; **Poet Laureate of Ottawa 1984–87**; novelist, short-story writer and editor of Indo-Caribbean diaspora literature; cousin of David Dabydeen)"
+      ],
+      "notes": "Indentured to the Rose Hall sugar estate in Berbice; rose to be 'driver' (a sirdar-equivalent supervisory role over fellow labourers — much like Cheddi Jagan's father). Died when Cyril was very young; the family survived by running a small village cakeshop. Cyril Dabydeen emigrated to Canada in 1970, became one of Indo-Caribbean Canada's foremost writers, and served as Poet Laureate of Ottawa (1984–87). Cousin of David Dabydeen (already in this index).",
+      "source": {
+        "type": "biography",
+        "title": "Cyril Dabydeen — Asian Heritage in Canada (Toronto Metropolitan University) + Peepal Tree Press author page",
+        "url": "https://library.ryerson.ca/asianheritage/authors/dabydeen/",
+        "publisher": "Toronto Metropolitan / Peepal Tree / Encyclopedia.com / Wikipedia"
+      }
+    },
+    {
+      "id": "totaram-sanadhya-1893-fiji",
+      "names": ["Totaram Sanadhya", "Pandit Totaram Sanadhya"],
+      "gender": "M",
+      "age_at_sailing": 17,
+      "caste": "Brahmin (Hindu Pandit)",
+      "origin": { "village": "village near Firozabad", "district": "Firozabad area", "state": "Uttar Pradesh" },
+      "depot": "Calcutta",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1893",
+      "destination": { "colony": "Fiji", "arrival_date": "1893", "estate": "Sugarcane plantation (5-year indenture)" },
+      "descendants_named": [],
+      "notes": "Born 1876 in a village near Firozabad, UP; deceitfully recruited as an indentured labourer in 1893 and brought to Fiji. Served his five-year indenture; afterwards became a small farmer and Hindu priest. Returned to India in 1914, and with Benarsidas Chaturvedi published ***Fiji Dwip Mein Mere Ikkis Varsh*** (1914) — *My Twenty-One Years in the Fiji Islands*, **the first book ever written by an indentured labourer**, a powerful first-person indictment of the indenture system. The book was banned in Fiji but published widely across Indian languages, dramatised on stage, and became one of the principal weapons of the all-India campaign to abolish indenture (achieved 1917, ended 1920). Sanadhya died 1947. Among the indispensable named figures of indenture history.",
+      "source": {
+        "type": "autobiography / encyclopaedia",
+        "title": "Totaram Sanadhya (Wikipedia) + *My Twenty-One Years in the Fiji Islands* (trans. John Kelly & Uttra Singh, Fiji Museum 1991)",
+        "url": "https://en.wikipedia.org/wiki/Totaram_Sanadhya",
+        "publisher": "Fiji Museum / Wikipedia / Better India / Academia.edu review essay"
+      }
+    },
+    {
+      "id": "pethi-yenkatamma-reddy-fiji",
+      "names": ["Pethi Reddy", "Yenkatamma Reddy"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": "Reddy (Telugu, originally Andhra Pradesh)",
+      "origin": { "village": null, "district": null, "state": "Andhra Pradesh (Telugu Reddi caste)" },
+      "depot": "Madras (likely)",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "early 20th century",
+      "destination": { "colony": "Fiji", "arrival_date": null, "estate": "Sugarcane plantation; later independent farmers" },
+      "descendants_named": [
+        "Justice Jai Ram Reddy (grandson, b. 12 May 1937 in Tagi Tagi, Tavua, Fiji – d. 30 August 2022 in Auckland — twice leader of the **National Federation Party** (1977–83, 1992–99); **Fiji's longest-serving Leader of the Opposition**; Attorney-General; appellate judge in Vanuatu and at the **International Criminal Tribunal for Rwanda**)"
+      ],
+      "notes": "Indo-Fijian Girmitiya farmers belonging to the Telugu Reddy community (one of the smaller streams of the Madras-emigrating indentureds among Fiji's predominantly Bhojpuri labour force). They saved enough on the plantations to send their eldest son Jai Ram to study law in New Zealand. He returned to lead the Indo-Fijian community through its most difficult period — the 1987 and 2000 coups — and is now remembered as one of Fiji's foremost constitutional statesmen.",
+      "source": {
+        "type": "biography / obituary",
+        "title": "Helen Reddy: 'A tribute to my father, Fiji's visionary Jai Ram Reddy' (Evening Report / USP Wansolwara)",
+        "url": "https://eveningreport.nz/2022/08/30/helen-reddy-a-tribute-to-my-father-fijis-visionary-jai-ram-reddy/",
+        "publisher": "Evening Report NZ / USP Wansolwara / Fiji Sun / Asia Pacific Report / Indian Newslink"
+      }
+    },
+    {
+      "id": "strini-moodley-ancestors-natal",
+      "names": ["[Strini Moodley's grandparents]"],
+      "gender": "M+F",
+      "age_at_sailing": null,
+      "caste": "Tamil (Mudaliar lineage suggested by the 'Moodley' surname)",
+      "origin": { "village": null, "district": null, "state": "Tamil Nadu" },
+      "depot": "Madras",
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": "1860–1911 (Natal Tamil-indenture window)",
+      "destination": { "colony": "Natal, South Africa", "arrival_date": null, "estate": "Sugar plantation" },
+      "descendants_named": [
+        "Narainsamy Moodley (son — teacher; Director of the Durban Indian Child Welfare Association; SACP-aligned; politically formative influence on his son)",
+        "Joyce Margaret Moodley (daughter-in-law — Strini's mother)",
+        "Strinivasa Rajoo 'Strini' Moodley (grandson, b. 29 October 1946, Durban – d. 27 April 2006 — founding member of the **Black Consciousness Movement** of South Africa; close colleague of Steve Biko; convicted of terrorism 1976; imprisoned on **Robben Island**; on release 1982 became one of the BCM's leading intellectuals)"
+      ],
+      "notes": "Born and raised in Durban, Natal — the same Indian-South-African heartland into which roughly 152,000 Tamil/Telugu/Bhojpuri-speaking indentureds were brought between 1860 and 1911. The Moodley surname is the South African transliteration of *Mudaliar*, a Tamil community. Strini Moodley was a founding voice of Black Consciousness alongside Steve Biko; his political formation came directly from his SACP-aligned schoolteacher father Narainsamy Moodley.",
+      "source": {
+        "type": "biography",
+        "title": "Strinivasa 'Strini' Moodley — South African History Online + Wikipedia",
+        "url": "https://sahistory.org.za/people/strinivasa-strini-moodley",
+        "publisher": "South African History Online / Wikipedia / Alchetron / IOL"
       }
     },
     {
