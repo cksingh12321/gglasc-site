@@ -613,6 +613,16 @@ em { font-style: italic; color: var(--sepia-deep); font-family: var(--serif); }
   padding: 4px 10px;
   border-radius: var(--radius-pill);
 }
+.rm-pill-open {
+  background: rgba(176, 96, 32, 0.10);
+  color: #8a4a17;
+  text-transform: none;
+  letter-spacing: 0.02em;
+}
+.record-card-open {
+  border-left: 3px solid #b06020;
+  background: linear-gradient(to right, rgba(176, 96, 32, 0.04), var(--paper) 40%);
+}
 .record-fields {
   display: flex;
   flex-direction: column;

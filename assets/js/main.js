@@ -165,26 +165,39 @@
       return (s == null ? '' : String(s)).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'})[c]);
     }
     function renderRecord(r) {
+      const isOpen = r.case_type === 'open_lookup';
       const names = (r.names || []).map(escapeHtml).join(' / ');
-      const origin = [r.origin?.village, r.origin?.district, r.origin?.state].filter(Boolean).map(escapeHtml).join(' · ');
+      const originParts = [r.origin?.village, r.origin?.tehsil && `tehsil ${r.origin.tehsil}`, r.origin?.district, r.origin?.state];
+      const origin = originParts.filter(Boolean).map(escapeHtml).join(' · ');
       const dest = [r.destination?.colony, r.destination?.estate].filter(Boolean).map(escapeHtml).join(' · ');
       const desc = (r.descendants_named || []).map(escapeHtml).map(d => `<li>${d}</li>`).join('');
       const src = r.source || {};
       const yearLine = [r.sailing_date && `Sailed ${escapeHtml(r.sailing_date)}`, r.ship && `Ship: <em>${escapeHtml(r.ship)}</em>`].filter(Boolean).join(' · ');
-      return `<article class="record-card">
+      const father = r.father_name ? `Father: ${escapeHtml(r.father_name)}` : '';
+      const family = r.family_group ? escapeHtml(r.family_group) : '';
+      const recruit = r.recruitment ? [
+        r.recruitment.recruiter_type && `Recruiter type: ${escapeHtml(r.recruitment.recruiter_type)}`,
+        r.recruitment.promised_destination && `Promised: ${escapeHtml(r.recruitment.promised_destination)}`,
+        r.recruitment.approx_period && `Period: ${escapeHtml(r.recruitment.approx_period)}`,
+      ].filter(Boolean).join(' · ') : '';
+      return `<article class="record-card${isOpen ? ' record-card-open' : ''}">
         <header class="record-head">
           <h3>${names || '(name unknown)'}</h3>
           <div class="record-meta">
+            ${isOpen ? `<span class="rm-pill rm-pill-open">Open lookup · descendant submission · unverified</span>` : ''}
             ${r.gender ? `<span class="rm-pill">${escapeHtml(r.gender)}${r.age_at_sailing ? ', age ' + r.age_at_sailing : ''}</span>` : ''}
             ${r.caste ? `<span class="rm-pill">${escapeHtml(r.caste)}</span>` : ''}
             ${r.depot ? `<span class="rm-pill">Depot: ${escapeHtml(r.depot)}</span>` : ''}
           </div>
         </header>
         <dl class="record-fields">
+          ${father ? `<div><dt>Parentage</dt><dd>${father}</dd></div>` : ''}
           ${origin ? `<div><dt>Origin</dt><dd>${origin}</dd></div>` : ''}
+          ${family ? `<div><dt>Family group</dt><dd>${family}</dd></div>` : ''}
+          ${recruit ? `<div><dt>Recruitment</dt><dd>${recruit}</dd></div>` : ''}
           ${yearLine ? `<div><dt>Voyage</dt><dd>${yearLine}</dd></div>` : ''}
           ${dest ? `<div><dt>Destination</dt><dd>${dest}${r.destination?.arrival_date ? ' · arrived ' + escapeHtml(r.destination.arrival_date) : ''}</dd></div>` : ''}
-          ${desc ? `<div><dt>Descendants on record</dt><dd><ul>${desc}</ul></dd></div>` : ''}
+          ${desc ? `<div><dt>${isOpen ? 'Descendant enquiring' : 'Descendants on record'}</dt><dd><ul>${desc}</ul></dd></div>` : ''}
           ${r.notes ? `<div><dt>Notes</dt><dd>${escapeHtml(r.notes)}</dd></div>` : ''}
         </dl>
         <footer class="record-source">

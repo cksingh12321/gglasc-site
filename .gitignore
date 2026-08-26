@@ -24,3 +24,6 @@ build/
 # Local config
 .env
 .env.local
+
+# Private lookup inbox (submitter emails, reply drafts — never publish)
+content/lookups/

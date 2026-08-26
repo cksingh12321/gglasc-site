@@ -1,7 +1,7 @@
 {
   "$comment": "Girmitiya records compiled from cited primary and secondary sources. Every record carries a source attribution; nothing is fabricated. Add to this list via PR or Decap CMS (future).",
   "schema_version": 1,
-  "last_updated": "2026-06-13",
+  "last_updated": "2026-08-26",
   "records": [
     {
       "id": "gangadeen-1901-trinidad",
@@ -1930,6 +1930,33 @@
         "title": "Basdeo Panday biographies",
         "url": "https://en.wikipedia.org/wiki/Basdeo_Panday",
         "publisher": "Wikipedia / British Hindus / News India Times"
+      }
+    },
+    {
+      "id": "asharam-mishra-c1890-1910-hardoi-open",
+      "case_type": "open_lookup",
+      "names": ["Asharam Mishra"],
+      "gender": "M",
+      "age_at_sailing": null,
+      "caste": null,
+      "father_name": "Ram Narayan Mishra",
+      "origin": { "village": "Udhranpur", "tehsil": "Shahabad", "district": "Hardoi", "state": "Uttar Pradesh" },
+      "recruitment": { "recruiter_type": "arkati", "promised_destination": "Assam", "approx_period": "1890–1910" },
+      "depot": null,
+      "depot_date": null,
+      "ship": null,
+      "sailing_date": null,
+      "destination": { "colony": null, "arrival_date": null, "estate": null },
+      "family_group": "Travelled with wife and three children (names not on record).",
+      "descendants_named": [
+        "Rachit Mishra (descendant, submitting inquirer — India)"
+      ],
+      "notes": "OPEN LOOKUP — unverified family oral history. Per the descendant, Asharam Mishra was recruited by an arkati who promised employment in Assam; the recruiter later returned to the village and told the family that Asharam, his wife, and their three children had died there. This account matches the well-documented pattern of arkati deception during the peak Girmitiya export period (c.1890–1910), in which recruits believed to be heading to Assam tea gardens were in fact shipped from Calcutta depots to overseas indentured-labour colonies (Fiji, Mauritius, Trinidad, Guyana, Suriname, Natal). No ship, sailing date, or destination has been confirmed for this family. If you recognise this ancestry or hold records that may match, please write to gglascmadhubani@gmail.com.",
+      "source": {
+        "type": "family_oral_history",
+        "title": "Lookup inquiry submitted via gglasc.com contact form",
+        "url": null,
+        "publisher": "GGLASC — submission by Rachit Mishra, 2026-08-26"
       }
     }
   ]
