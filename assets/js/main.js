@@ -341,4 +341,25 @@
       }
     });
   });
+
+  // ============================================================
+  // ---- Copy-link buttons (used on lookout notices) -----------
+  // ============================================================
+  document.querySelectorAll('[data-copy-url]').forEach(btn => {
+    const original = btn.innerHTML;
+    btn.addEventListener('click', async () => {
+      const url = window.location.href;
+      try {
+        await navigator.clipboard.writeText(url);
+      } catch (_) {
+        const ta = document.createElement('textarea');
+        ta.value = url; ta.style.position = 'fixed'; ta.style.opacity = '0';
+        document.body.appendChild(ta); ta.select();
+        try { document.execCommand('copy'); } catch (__) {}
+        document.body.removeChild(ta);
+      }
+      btn.innerHTML = '<span class="lang-en">Link copied ✓</span><span class="lang-hi">लिंक कॉपी हो गया ✓</span>';
+      setTimeout(() => { btn.innerHTML = original; }, 2400);
+    });
+  });
 })();
